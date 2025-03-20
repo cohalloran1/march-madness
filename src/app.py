@@ -83,7 +83,17 @@ def read_markdown_file(filepath):
 
 def extract_team_info(md_content):
     """Extract team name and seed from team profile markdown content"""
-    # Updated to match the new header format like "# Z06 Missouri Team Profile"
+    # Try first format: "# West Region #03 Wisconsin Team Profile"
+    match = re.search(r"#\s+([A-Z][a-z]+)\s+[A-Z][a-z]+\s+#?(\d{2})\s+([^#]+?)\s+Team Profile", md_content)
+    if match:
+        region_name = f"{match.group(1)} Region"
+        seed = match.group(2)
+        team_name = match.group(3).strip()
+        # Include the region name with the team name
+        team_name_with_region = f"{region_name}: {team_name}"
+        return seed, team_name_with_region  # Return numeric seed and team name with region
+    
+    # Try second format: "# Z06 Missouri Team Profile"
     match = re.search(r"#\s+([W-Z])(\d{2})\s+([^#]+?)\s+Team Profile", md_content)
     if match:
         region_code = match.group(1)
@@ -94,13 +104,29 @@ def extract_team_info(md_content):
         # Include the region name with the team name
         team_name_with_region = f"{region_name}: {team_name}"
         return seed, team_name_with_region  # Return numeric seed and team name with region
+        
+    # Try to extract from Seed field in the document
+    match = re.search(r"\*\*Seed:\*\*\s+([W-Z])(\d{2})", md_content)
+    if match:
+        region_code = match.group(1)
+        seed = match.group(2)
+        
+        # Try to get team name from title
+        title_match = re.search(r"#\s+[^#]+?([A-Za-z\s]+?)(?:Team Profile|$)", md_content)
+        team_name = title_match.group(1).strip() if title_match else f"Team {seed}"
+        
+        # Map region code to region name
+        region_name = REGION_NAMES.get(region_code, "Unknown Region")
+        team_name_with_region = f"{region_name}: {team_name}"
+        return seed, team_name_with_region
+    
     return None, None
 
 
 def extract_matchup_info(md_content):
     """Extract team names from matchup analysis markdown content"""
-    # Look for the header pattern like "# 1 Connecticut vs 16 Eastern Washington"
-    match = re.search(r"#\s+(\d+)\s+([^#]+?)\s+vs\s+(\d+)\s+([^#]+)", md_content)
+    # Look for the header pattern like "# West Region: #03 Wisconsin vs #14 Montana"
+    match = re.search(r"#\s+(?:[A-Z][a-z]+\s+[A-Z][a-z]+(?:\s*:)?)?\s*#?(\d+)\s+([^#]+?)\s+vs\s+#?(\d+)\s+([^#]+)", md_content)
     if match:
         seed1 = match.group(1)
         team1 = match.group(2).strip()
@@ -180,15 +206,26 @@ def load_analysis_files():
                         if team1_info and team2_info:
                             team1_display = f"{team1_info[0]} {team1_info[1]}"
                             team2_display = f"{team2_info[0]} {team2_info[1]}"
+                            
+                            # Include region name in team displays
+                            if len(team1_info[0]) > 0:
+                                region_code = team1_info[0][0]  # Extract region from seed
+                                region_name = REGION_NAMES.get(region_code, "Unknown")
+                            else:
+                                region_name = "Unknown Region"
                         else:
                             # Fallback to extracting from markdown content
                             team1_display, team2_display = extract_matchup_info(
                                 md_content
                             )
-
-                        # Include region name in team displays
-                        region_code = team1_display[0]  # Extract region from seed
-                        region_name = REGION_NAMES.get(region_code, "Unknown")
+                            
+                            # For extracted matchups, use the first line to get region
+                            first_line = md_content.split('\n')[0] if '\n' in md_content else md_content
+                            region_match = re.search(r"#\s+([A-Z][a-z]+)\s+[A-Z][a-z]+", first_line)
+                            if region_match:
+                                region_name = f"{region_match.group(1)} Region"
+                            else:
+                                region_name = "Unknown Region"
                         team1_display = f"{region_name}: {team1_display}"
                         team2_display = f"{region_name}: {team2_display}"
 
