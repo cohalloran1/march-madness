@@ -6,8 +6,8 @@ from binarytree import Node
 import pandas as pd
 import numpy as np
 
-from src.data_classes.processing import MarchMadnessPredictor
-from src.data_classes.bracket.seed_slots import SLOTS
+from data_classes.processing import MarchMadnessPredictor
+from data_classes.bracket.seed_slots import SLOTS
 
 
 class BracketNode(Node):

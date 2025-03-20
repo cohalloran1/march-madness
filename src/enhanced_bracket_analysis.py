@@ -30,6 +30,7 @@ from data_classes.processing import (
     TeamStatsCalculator,
     MarchMadnessMLModel,
 )
+from data_classes.bracket import BracketSimulator
 
 # Constants
 SUBMISSION_DIR = "./output"
@@ -2175,6 +2176,27 @@ def generate_enhanced_analysis(
         full_elo_history_df=elo_df,
         current_season=year,
         ml_model=ml_model,  # Pass the ML model
+    )
+
+    # Initialize the bracket simulator
+    simulator = BracketSimulator(predictor)
+    simulator.use_predictor_data()
+
+    # Build the bracket structure
+    men_bracket_tree, men_seed_slot_map = simulator.build_bracket_tree()
+
+    # Generate the bracket visualization
+    print("Generating men's tournament bracket visualization...")
+    simulator.visualize_bracket(
+        method="elo_enhanced",
+        output_path=f"output/2025_mens_bracket.png",
+        betting_odds=True,
+    )
+
+    simulator.visualize_bracket(
+        method="elo_enhanced",
+        output_path=f"output/2025_mens_bracket_prob.png",
+        betting_odds=False,
     )
 
     # Generate requested analysis
