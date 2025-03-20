@@ -11,8 +11,13 @@ st.set_page_config(
 )
 
 # Define paths and constants
-ANALYSIS_DIR = "./output/analysis"  # Base directory containing analysis files
-BRACKET_DIR = "./output"  # Directory containing bracket images
+BASE_DIR = os.path.dirname(
+    os.path.abspath(__file__)
+)  # Get the directory of this script
+ANALYSIS_DIR = os.path.join(
+    BASE_DIR, "output/analysis"
+)  # Base directory containing analysis files
+BRACKET_DIR = os.path.join(BASE_DIR, "output")  # Directory containing bracket images
 REGION_NAMES = {
     "W": "West Region",
     "X": "East Region",
