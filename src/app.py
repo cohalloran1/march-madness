@@ -226,8 +226,36 @@ def load_analysis_files():
                                 region_name = f"{region_match.group(1)} Region"
                             else:
                                 region_name = "Unknown Region"
-                        team1_display = f"{region_name}: {team1_display}"
-                        team2_display = f"{region_name}: {team2_display}"
+                        # Clean up the extracted displays to avoid any Unknown prefixes
+                        
+                        # Parse the first line of the markdown to get the correct header format
+                        first_line = md_content.split('\n')[0] if '\n' in md_content else md_content
+                        
+                        # Try to extract directly from the title line for a clean format
+                        title_match = re.search(r"#\s+([A-Z][a-z]+)\s+[A-Z][a-z]+(?:\s*:)?\s*#?(\d+)\s+([A-Za-z\s]+)\s+vs\s+#?(\d+)\s+([A-Za-z\s]+)", first_line)
+                        if title_match:
+                            region_name = f"{title_match.group(1)} Region"
+                            seed1 = title_match.group(2)
+                            team1_name = title_match.group(3).strip()
+                            seed2 = title_match.group(4)
+                            team2_name = title_match.group(5).strip()
+                            
+                            team1_display = f"{seed1} {region_name}: {team1_name}"
+                            team2_display = f"{seed2} {region_name}: {team2_name}"
+                        else:
+                            # Fallback to the existing team displays but clean them up
+                            team1_parts = team1_display.split()
+                            team2_parts = team2_display.split()
+                            
+                            if len(team1_parts) > 0:
+                                seed1 = team1_parts[0]
+                                team1_name = " ".join(team1_parts[1:])
+                                team1_display = f"{seed1} {region_name}: {team1_name}"
+                            
+                            if len(team2_parts) > 0:
+                                seed2 = team2_parts[0]
+                                team2_name = " ".join(team2_parts[1:])
+                                team2_display = f"{seed2} {region_name}: {team2_name}"
 
                         upset_prob = extract_upset_probability(md_content)
 
@@ -402,20 +430,18 @@ def display_matchup_analysis(data):
     # Sort matchups by team1_display
     matchups_sorted = sorted(data["matchups"].items(), key=lambda x: x[1][1])
 
-    # Create select box options
-    matchup_options = [
-        f"{team1_display} vs {team2_display}"
-        for _, (_, team1_display, team2_display, _) in matchups_sorted
-    ]
-    matchup_file_map = {
-        f"{team1_display} vs {team2_display}": filepath
-        for (team1_id, team2_id), (
-            filepath,
-            team1_display,
-            team2_display,
-            upset,
-        ) in matchups_sorted
-    }
+    # Create select box options with clean display format
+    matchup_options = []
+    matchup_file_map = {}
+    
+    for (team1_id, team2_id), (filepath, team1_display, team2_display, upset) in matchups_sorted:
+        # Clean up display strings - remove any "Unknown:" prefixes
+        clean_team1 = re.sub(r'^Unknown[^:]*:', '', team1_display).strip()
+        clean_team2 = re.sub(r'^Unknown[^:]*:', '', team2_display).strip()
+        
+        matchup_display = f"{clean_team1} vs {clean_team2}"
+        matchup_options.append(matchup_display)
+        matchup_file_map[matchup_display] = filepath
 
     # Select box for matchups
     selected_matchup_display = st.selectbox("Select a matchup:", matchup_options)
