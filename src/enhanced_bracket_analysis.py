@@ -25,9 +25,6 @@ from bracket_analysis import (
 )
 
 from data_classes.processing import (
-    MarchMadnessDataManager,
-    EloRatingSystem,
-    TeamStatsCalculator,
     MarchMadnessMLModel,
 )
 from data_classes.bracket import BracketSimulator
@@ -2099,6 +2096,7 @@ def load_predictions(gender_code="M", year=2025):
 
 
 def generate_enhanced_analysis(
+    ml_model: MarchMadnessMLModel,
     gender_code="M",
     year=2025,
     output_dir="./output/analysis",
@@ -2130,31 +2128,6 @@ def generate_enhanced_analysis(
 
     # Set up components to generate fresh feature data
     print("Setting up ML components to generate fresh feature data...")
-
-    data_manager = MarchMadnessDataManager(
-        data_dir=DATA_DIR.format(year=year), gender=gender_code, current_season=year
-    )
-    data_manager.load_data()
-
-    # Create ELO system
-    elo_system = EloRatingSystem(data_manager)
-    if elo_df is not None:
-        # Use pre-calculated ELO ratings if available
-        team_elo_ratings = {}
-        for _, row in elo_df.iterrows():
-            key = (row["Season"], row["TeamID"], row["DayNum"])
-            team_elo_ratings[key] = row["ELO"]
-        elo_system.team_elo_ratings = team_elo_ratings
-    else:
-        # Calculate ELO ratings if not available
-        elo_system.calculate_elo_ratings(start_year=2003)
-
-    # Create TeamStatsCalculator
-    stats_calculator = TeamStatsCalculator(data_manager)
-    stats_calculator.calculate_advanced_team_stats()
-
-    # Create MLModel for on-demand feature generation
-    ml_model = MarchMadnessMLModel(data_manager, elo_system, stats_calculator)
 
     # We'll still load the feature dataset for fallback
     feature_df = load_feature_data(gender_code)
