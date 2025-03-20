@@ -1,12 +1,12 @@
 # Y08 Louisville vs Y09 Creighton
 
 ## Prediction
-**Louisville** is the Moderate favorite with a **57.1%** win probability.
-**Creighton** has a 42.9% chance of pulling the upset.
+**Louisville** is the Moderate favorite with a **57.6%** win probability.
+**Creighton** has a 42.4% chance of pulling the upset.
 
 ## Betting Information
 **Spread:** Louisville -2.0
-**Moneyline:** Louisville -133, Creighton +133
+**Moneyline:** Louisville -136, Creighton +136
 
 ## Statistical Comparison
 
@@ -33,7 +33,7 @@
 
 ## Analysis
 
-Louisville has a slight edge as a #8 seed versus #9 seed Creighton. Louisville has a higher ELO rating (1584 vs 1665), indicating better season-long performance. Historically, #8 seeds have won 51.40% of games against #9 seeds in the tournament. This is expected to be a close matchup, with Louisville having a slight edge (57.14% win probability).
+Louisville has a slight edge as a #8 seed versus #9 seed Creighton. Louisville has a higher ELO rating (1584 vs 1665), indicating better season-long performance. Historically, #8 seeds have won 51.40% of games against #9 seeds in the tournament. This is expected to be a close matchup, with Louisville having a slight edge (57.62% win probability).
 
 ## Betting Value Assessment
 

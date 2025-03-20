@@ -1,12 +1,12 @@
 # W07 St Mary's CA vs W10 Vanderbilt
 
 ## Prediction
-**St Mary's CA** is the Moderate favorite with a **59.8%** win probability.
-**Vanderbilt** has a 40.2% chance of pulling the upset.
+**St Mary's CA** is the Strong favorite with a **78.6%** win probability.
+**Vanderbilt** has a 21.4% chance of pulling the upset.
 
 ## Betting Information
-**Spread:** St Mary's CA -2.5
-**Moneyline:** St Mary's CA -149, Vanderbilt +149
+**Spread:** St Mary's CA -8.0
+**Moneyline:** St Mary's CA -367, Vanderbilt +367
 
 ## Statistical Comparison
 
@@ -35,7 +35,7 @@
 
 ## Analysis
 
-St Mary's CA has a slight edge as a #7 seed versus #10 seed Vanderbilt. St Mary's CA has a higher ELO rating (1672 vs 1523), indicating better season-long performance. Historically, #7 seeds have won 60.90% of games against #10 seeds in the tournament. This is expected to be a close matchup, with St Mary's CA having a slight edge (59.83% win probability).
+St Mary's CA has a slight edge as a #7 seed versus #10 seed Vanderbilt. St Mary's CA has a higher ELO rating (1672 vs 1523), indicating better season-long performance. Historically, #7 seeds have won 60.90% of games against #10 seeds in the tournament. St Mary's CA is the clear favorite with a 78.58% chance to win.
 
 ## Betting Value Assessment
 
@@ -43,5 +43,5 @@ St Mary's CA has a slight edge as a #7 seed versus #10 seed Vanderbilt. St Mary'
 
 ## The Pick
 
-**St Mary's CA** has the edge in this matchup, but expect a competitive game.
+**St Mary's CA** should control this game and win comfortably.
 

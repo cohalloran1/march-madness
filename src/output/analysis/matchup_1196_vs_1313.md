@@ -1,12 +1,12 @@
 # Z01 Florida vs Z16 Norfolk St
 
 ## Prediction
-**Florida** is the Moderate favorite with a **55.8%** win probability.
-**Norfolk St** has a 44.2% chance of pulling the upset.
+**Florida** is the Heavy favorite with a **97.0%** win probability.
+**Norfolk St** has a 3.0% chance of pulling the upset.
 
 ## Betting Information
-**Spread:** Florida -1.5
-**Moneyline:** Florida -126, Norfolk St +126
+**Spread:** Florida -27.5
+**Moneyline:** Florida -3213, Norfolk St +3213
 
 ## Statistical Comparison
 
@@ -35,7 +35,7 @@
 
 ## Analysis
 
-Florida (Z01) is a major favorite as a much higher seed than Norfolk St (Z16). Florida has a higher ELO rating (1725 vs 1570), indicating better season-long performance. Historically, #1 seeds have won 98.70% of games against #16 seeds in the tournament. This is expected to be a close matchup, with Florida having a slight edge (55.82% win probability).
+Florida (Z01) is a major favorite as a much higher seed than Norfolk St (Z16). Florida has a higher ELO rating (1725 vs 1570), indicating better season-long performance. Historically, #1 seeds have won 98.70% of games against #16 seeds in the tournament. Florida is strongly favored with a 96.98% win probability.
 
 ## Betting Value Assessment
 
@@ -43,5 +43,5 @@ Florida (Z01) is a major favorite as a much higher seed than Norfolk St (Z16). F
 
 ## The Pick
 
-**Florida** has the edge in this matchup, but expect a competitive game.
+**Florida** to win easily. This game should not be close.
 

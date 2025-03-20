@@ -1,12 +1,12 @@
 # X08 Gonzaga vs X09 Georgia
 
 ## Prediction
-**Gonzaga** is the Moderate favorite with a **62.0%** win probability.
-**Georgia** has a 38.0% chance of pulling the upset.
+**Gonzaga** is the Strong favorite with a **73.4%** win probability.
+**Georgia** has a 26.6% chance of pulling the upset.
 
 ## Betting Information
-**Spread:** Gonzaga -3.0
-**Moneyline:** Gonzaga -163, Georgia +163
+**Spread:** Gonzaga -6.0
+**Moneyline:** Gonzaga -276, Georgia +276
 
 ## Statistical Comparison
 
@@ -35,7 +35,7 @@
 
 ## Analysis
 
-Gonzaga has a slight edge as a #8 seed versus #9 seed Georgia. Gonzaga has a higher ELO rating (1756 vs 1564), indicating better season-long performance. Historically, #8 seeds have won 51.40% of games against #9 seeds in the tournament. Gonzaga has the advantage with a 62.00% win probability.
+Gonzaga has a slight edge as a #8 seed versus #9 seed Georgia. Gonzaga has a higher ELO rating (1756 vs 1564), indicating better season-long performance. Historically, #8 seeds have won 51.40% of games against #9 seeds in the tournament. Gonzaga is the clear favorite with a 73.37% chance to win.
 
 ## Betting Value Assessment
 
@@ -43,5 +43,5 @@ Gonzaga has a slight edge as a #8 seed versus #9 seed Georgia. Gonzaga has a hig
 
 ## The Pick
 
-**Gonzaga** has the edge in this matchup, but expect a competitive game.
+**Gonzaga** should control this game and win comfortably.
 

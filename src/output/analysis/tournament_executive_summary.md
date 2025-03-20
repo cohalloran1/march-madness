@@ -77,7 +77,7 @@ This executive summary provides a comprehensive analysis of the 2025 NCAA Men's 
 
 ### 1. #11 Drake over #6 Missouri (Z Region)
 
-**Upset Probability:** 65.5%
+**Upset Probability:** 47.8%
 
 **Why This Upset Could Happen:**
 * Drake has excellent efficiency metrics (Net: 16.5)
@@ -86,9 +86,31 @@ This executive summary provides a comprehensive analysis of the 2025 NCAA Men's 
 * Strong offensive efficiency (115.2)
 * Strong offensive rebounding (35.9%)
 
-### 2. #12 UC San Diego over #5 Michigan (Y Region)
+### 2. #11 VCU over #6 BYU (W Region)
 
-**Upset Probability:** 57.8%
+**Upset Probability:** 46.5%
+
+**Why This Upset Could Happen:**
+* VCU has excellent efficiency metrics (Net: 21.2)
+* VCU has a potent offense (114.3 efficiency)
+* VCU plays elite defense (93.1 efficiency)
+* Strong offensive efficiency (114.3)
+* Elite defense (93.1 points allowed per 100 possessions)
+
+### 3. #12 Liberty over #5 Oregon (W Region)
+
+**Upset Probability:** 39.7%
+
+**Why This Upset Could Happen:**
+* Liberty has excellent efficiency metrics (Net: 16.5)
+* Liberty has a potent offense (112.3 efficiency)
+* Liberty has a significant 3-point shooting advantage (39.5% vs 34.0%)
+* Strong offensive efficiency (112.3)
+* Excellent 3-point shooting (39.5%)
+
+### 4. #12 UC San Diego over #5 Michigan (Y Region)
+
+**Upset Probability:** 30.6%
 
 **Why This Upset Could Happen:**
 * UC San Diego has excellent efficiency metrics (Net: 23.3)
@@ -97,36 +119,15 @@ This executive summary provides a comprehensive analysis of the 2025 NCAA Men's 
 * Strong offensive efficiency (115.9)
 * Elite defense (92.6 points allowed per 100 possessions)
 
-### 3. #13 High Point over #4 Purdue (X Region)
+### 5. #11 Texas over #6 Illinois (X Region)
 
-**Upset Probability:** 56.3%
-
-**Why This Upset Could Happen:**
-* High Point has excellent efficiency metrics (Net: 17.0)
-* High Point has a potent offense (120.9 efficiency)
-* Strong offensive efficiency (120.9)
-* Takes care of the ball (only 14.5% turnover rate)
-
-### 4. #11 Texas over #6 Illinois (X Region)
-
-**Upset Probability:** 55.5%
+**Upset Probability:** 25.7%
 
 **Why This Upset Could Happen:**
 * Texas has excellent efficiency metrics (Net: 10.5)
 * Texas has a potent offense (113.5 efficiency)
 * Strong offensive efficiency (113.5)
 * Takes care of the ball (only 13.7% turnover rate)
-
-### 5. #11 VCU over #6 BYU (W Region)
-
-**Upset Probability:** 54.7%
-
-**Why This Upset Could Happen:**
-* VCU has excellent efficiency metrics (Net: 21.2)
-* VCU has a potent offense (114.3 efficiency)
-* VCU plays elite defense (93.1 efficiency)
-* Strong offensive efficiency (114.3)
-* Elite defense (93.1 points allowed per 100 possessions)
 
 ## Final Four Predictions
 
@@ -174,7 +175,7 @@ This executive summary provides a comprehensive analysis of the 2025 NCAA Men's 
 * #3 Wisconsin (90.0%)
 * #4 Arizona (85.5%)
 
-**Best Upset Pick:** #11 VCU over #6 BYU (54.7%)
+**Best Upset Pick:** #11 VCU over #6 BYU (46.5%)
 
 **Predicted Winner:** #1 Duke (8.9%)
 
@@ -188,8 +189,6 @@ This executive summary provides a comprehensive analysis of the 2025 NCAA Men's 
 * #3 Kentucky (90.0%)
 * #4 Purdue (87.2%)
 
-**Best Upset Pick:** #13 High Point over #4 Purdue (56.3%)
-
 **Predicted Winner:** #1 Houston (9.8%)
 
 ### Y Region
@@ -202,7 +201,7 @@ This executive summary provides a comprehensive analysis of the 2025 NCAA Men's 
 * #3 Iowa St (90.0%)
 * #4 Texas A&M (82.1%)
 
-**Best Upset Pick:** #12 UC San Diego over #5 Michigan (57.8%)
+**Best Upset Pick:** #12 UC San Diego over #5 Michigan (30.6%)
 
 **Predicted Winner:** #1 Auburn (7.6%)
 
@@ -216,7 +215,7 @@ This executive summary provides a comprehensive analysis of the 2025 NCAA Men's 
 * #3 Texas Tech (90.0%)
 * #4 Maryland (81.5%)
 
-**Best Upset Pick:** #11 Drake over #6 Missouri (65.5%)
+**Best Upset Pick:** #11 Drake over #6 Missouri (47.8%)
 
 **Predicted Winner:** #1 Florida (7.3%)
 

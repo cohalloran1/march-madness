@@ -1,12 +1,12 @@
 # W04 Arizona vs W13 Akron
 
 ## Prediction
-**Arizona** is the Moderate favorite with a **58.4%** win probability.
-**Akron** has a 41.6% chance of pulling the upset.
+**Arizona** is the Strong favorite with a **79.3%** win probability.
+**Akron** has a 20.7% chance of pulling the upset.
 
 ## Betting Information
-**Spread:** Arizona -2.0
-**Moneyline:** Arizona -141, Akron +141
+**Spread:** Arizona -8.0
+**Moneyline:** Arizona -383, Akron +383
 
 ## Statistical Comparison
 
@@ -33,7 +33,7 @@
 
 ## Analysis
 
-As a #4 seed, Arizona has a significant seeding advantage over #13 seed Akron. Arizona has a higher ELO rating (1690 vs 1637), indicating better season-long performance. Historically, #4 seeds have won 79.60% of games against #13 seeds in the tournament. This is expected to be a close matchup, with Arizona having a slight edge (58.43% win probability).
+As a #4 seed, Arizona has a significant seeding advantage over #13 seed Akron. Arizona has a higher ELO rating (1690 vs 1637), indicating better season-long performance. Historically, #4 seeds have won 79.60% of games against #13 seeds in the tournament. Arizona is the clear favorite with a 79.29% chance to win.
 
 ## Betting Value Assessment
 
@@ -41,5 +41,5 @@ As a #4 seed, Arizona has a significant seeding advantage over #13 seed Akron. A
 
 ## The Pick
 
-**Arizona** has the edge in this matchup, but expect a competitive game.
+**Arizona** should control this game and win comfortably.
 

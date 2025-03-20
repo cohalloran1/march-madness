@@ -47,55 +47,47 @@
 
 ### #1 Auburn vs #16 Alabama St
 
-**Prediction:** Auburn has a 65.9% chance to win
-**Spread:** Auburn -4.0
+**Prediction:** Auburn has a 99.0% chance to win
+**Spread:** Auburn -38.0
 
 ### #8 Louisville vs #9 Creighton
 
-**Prediction:** Louisville has a 57.1% chance to win
+**Prediction:** Louisville has a 57.6% chance to win
 **Spread:** Louisville -2.0
 
 ### #5 Michigan vs #12 UC San Diego
 
-**Prediction:** UC San Diego has a 57.8% chance to win
-**Spread:** UC San Diego -1.9267727422473562
+**Prediction:** Michigan has a 69.4% chance to win
+**Spread:** Michigan -5.0
 
 ### #4 Texas A&M vs #13 Yale
 
-**Prediction:** Texas A&M has a 52.9% chance to win
-**Spread:** Texas A&M -0.5
+**Prediction:** Texas A&M has a 80.5% chance to win
+**Spread:** Texas A&M -8.5
 
 ### #6 Mississippi vs #11 North Carolina
 
-**Prediction:** Mississippi has a 63.6% chance to win
-**Spread:** Mississippi -3.5
+**Prediction:** Mississippi has a 79.0% chance to win
+**Spread:** Mississippi -8.0
 
 ### #3 Iowa St vs #14 Lipscomb
 
-**Prediction:** Iowa St has a 59.2% chance to win
-**Spread:** Iowa St -2.5
+**Prediction:** Iowa St has a 85.8% chance to win
+**Spread:** Iowa St -11.0
 
 ### #7 Marquette vs #10 New Mexico
 
-**Prediction:** Marquette has a 83.9% chance to win
-**Spread:** Marquette -10.0
+**Prediction:** Marquette has a 63.1% chance to win
+**Spread:** Marquette -3.5
 
 ### #2 Michigan St vs #15 Bryant
 
-**Prediction:** Michigan St has a 59.2% chance to win
-**Spread:** Michigan St -2.5
+**Prediction:** Michigan St has a 86.2% chance to win
+**Spread:** Michigan St -11.5
 
 ## Potential Upsets
 
-**#4 Texas A&M vs #13 Yale**: #4 Texas A&M has a 47.1% chance to upset #4 Texas A&M
-
-**#5 Michigan vs #12 UC San Diego**: #12 UC San Diego has a 42.2% chance to upset #12 UC San Diego
-
-**#3 Iowa St vs #14 Lipscomb**: #3 Iowa St has a 40.8% chance to upset #3 Iowa St
-
-**#2 Michigan St vs #15 Bryant**: #2 Michigan St has a 40.8% chance to upset #2 Michigan St
-
-**#6 Mississippi vs #11 North Carolina**: #6 Mississippi has a 36.4% chance to upset #6 Mississippi
+**#7 Marquette vs #10 New Mexico**: #7 Marquette has a 36.9% chance to upset #7 Marquette
 
 ## Sleeper Teams to Watch
 

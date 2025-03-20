@@ -50,59 +50,47 @@
 
 ### #1 Florida vs #16 Norfolk St
 
-**Prediction:** Florida has a 55.8% chance to win
-**Spread:** Florida -1.5
+**Prediction:** Florida has a 97.0% chance to win
+**Spread:** Florida -27.5
 
 ### #8 Connecticut vs #9 Oklahoma
 
-**Prediction:** Connecticut has a 59.1% chance to win
-**Spread:** Connecticut -2.0
+**Prediction:** Connecticut has a 74.4% chance to win
+**Spread:** Connecticut -6.5
 
 ### #5 Memphis vs #12 Colorado St
 
-**Prediction:** Memphis has a 55.4% chance to win
-**Spread:** Memphis -1.5
+**Prediction:** Memphis has a 81.7% chance to win
+**Spread:** Memphis -9.0
 
 ### #4 Maryland vs #13 Grand Canyon
 
-**Prediction:** Maryland has a 61.7% chance to win
-**Spread:** Maryland -3.0
+**Prediction:** Maryland has a 80.9% chance to win
+**Spread:** Maryland -9.0
 
 ### #6 Missouri vs #11 Drake
 
-**Prediction:** Drake has a 65.5% chance to win
-**Spread:** Drake -3.926190354890922
+**Prediction:** Missouri has a 52.2% chance to win
+**Spread:** Missouri -0.5
 
 ### #3 Texas Tech vs #14 UNC Wilmington
 
-**Prediction:** Texas Tech has a 61.5% chance to win
-**Spread:** Texas Tech -3.0
+**Prediction:** Texas Tech has a 81.1% chance to win
+**Spread:** Texas Tech -9.0
 
 ### #7 Kansas vs #10 Arkansas
 
-**Prediction:** Kansas has a 55.3% chance to win
-**Spread:** Kansas -1.5
+**Prediction:** Kansas has a 73.2% chance to win
+**Spread:** Kansas -6.0
 
 ### #2 St John's vs #15 NE Omaha
 
-**Prediction:** St John's has a 51.1% chance to win
-**Spread:** St John's -0.5
+**Prediction:** St John's has a 89.9% chance to win
+**Spread:** St John's -15.0
 
 ## Potential Upsets
 
-**#2 St John's vs #15 NE Omaha**: #2 St John's has a 48.9% chance to upset #2 St John's
-
-**#7 Kansas vs #10 Arkansas**: #7 Kansas has a 44.7% chance to upset #7 Kansas
-
-**#5 Memphis vs #12 Colorado St**: #5 Memphis has a 44.6% chance to upset #5 Memphis
-
-**#1 Florida vs #16 Norfolk St**: #1 Florida has a 44.2% chance to upset #1 Florida
-
-**#3 Texas Tech vs #14 UNC Wilmington**: #3 Texas Tech has a 38.5% chance to upset #3 Texas Tech
-
-**#4 Maryland vs #13 Grand Canyon**: #4 Maryland has a 38.3% chance to upset #4 Maryland
-
-**#6 Missouri vs #11 Drake**: #11 Drake has a 34.5% chance to upset #11 Drake
+**#6 Missouri vs #11 Drake**: #6 Missouri has a 47.8% chance to upset #6 Missouri
 
 ## Sleeper Teams to Watch
 

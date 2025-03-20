@@ -1,12 +1,12 @@
 # X01 Houston vs X16 SIUE
 
 ## Prediction
-**Houston** is the Strong favorite with a **66.0%** win probability.
-**SIUE** has a 34.0% chance of pulling the upset.
+**Houston** is the Heavy favorite with a **96.7%** win probability.
+**SIUE** has a 3.3% chance of pulling the upset.
 
 ## Betting Information
-**Spread:** Houston -4.0
-**Moneyline:** Houston -194, SIUE +194
+**Spread:** Houston -26.5
+**Moneyline:** Houston -2941, SIUE +2941
 
 ## Statistical Comparison
 
@@ -37,7 +37,7 @@
 
 ## Analysis
 
-Houston (X01) is a major favorite as a much higher seed than SIUE (X16). Houston has a substantially higher ELO rating (1809 vs 1498), indicating significantly better season-long performance. Historically, #1 seeds have won 98.70% of games against #16 seeds in the tournament. Houston has the advantage with a 65.99% win probability.
+Houston (X01) is a major favorite as a much higher seed than SIUE (X16). Houston has a substantially higher ELO rating (1809 vs 1498), indicating significantly better season-long performance. Historically, #1 seeds have won 98.70% of games against #16 seeds in the tournament. Houston is strongly favored with a 96.71% win probability.
 
 ## Betting Value Assessment
 
@@ -45,5 +45,5 @@ Houston (X01) is a major favorite as a much higher seed than SIUE (X16). Houston
 
 ## The Pick
 
-**Houston** should control this game and win comfortably.
+**Houston** to win easily. This game should not be close.
 

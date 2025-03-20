@@ -1,12 +1,12 @@
 # W03 Wisconsin vs W14 Montana
 
 ## Prediction
-**Wisconsin** is the Moderate favorite with a **62.0%** win probability.
-**Montana** has a 38.0% chance of pulling the upset.
+**Wisconsin** is the Heavy favorite with a **85.1%** win probability.
+**Montana** has a 14.9% chance of pulling the upset.
 
 ## Betting Information
-**Spread:** Wisconsin -3.0
-**Moneyline:** Wisconsin -163, Montana +163
+**Spread:** Wisconsin -10.5
+**Moneyline:** Wisconsin -571, Montana +571
 
 ## Statistical Comparison
 
@@ -27,7 +27,7 @@
 
 ## Analysis
 
-Wisconsin (W03) is a major favorite as a much higher seed than Montana (W14). Wisconsin has a higher ELO rating (1647 vs 1577), indicating better season-long performance. Historically, #3 seeds have won 85.20% of games against #14 seeds in the tournament. Wisconsin has the advantage with a 62.04% win probability.
+Wisconsin (W03) is a major favorite as a much higher seed than Montana (W14). Wisconsin has a higher ELO rating (1647 vs 1577), indicating better season-long performance. Historically, #3 seeds have won 85.20% of games against #14 seeds in the tournament. Wisconsin is the clear favorite with a 85.09% chance to win.
 
 ## Betting Value Assessment
 
@@ -35,5 +35,5 @@ Wisconsin (W03) is a major favorite as a much higher seed than Montana (W14). Wi
 
 ## The Pick
 
-**Wisconsin** has the edge in this matchup, but expect a competitive game.
+**Wisconsin** to win easily. This game should not be close.
 

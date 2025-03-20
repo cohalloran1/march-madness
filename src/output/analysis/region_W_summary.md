@@ -49,55 +49,49 @@
 
 ### #1 Duke vs #16 American Univ
 
-**Prediction:** Duke has a 65.4% chance to win
-**Spread:** Duke -4.0
+**Prediction:** Duke has a 95.7% chance to win
+**Spread:** Duke -24.0
 
 ### #8 Mississippi St vs #9 Baylor
 
-**Prediction:** Baylor has a 69.6% chance to win
-**Spread:** Baylor -5.071396177836796
+**Prediction:** Mississippi St has a 55.1% chance to win
+**Spread:** Mississippi St -1.5
 
 ### #5 Oregon vs #12 Liberty
 
-**Prediction:** Liberty has a 50.5% chance to win
-**Spread:** Liberty -0.1200241309556186
+**Prediction:** Oregon has a 60.3% chance to win
+**Spread:** Oregon -2.5
 
 ### #4 Arizona vs #13 Akron
 
-**Prediction:** Arizona has a 58.4% chance to win
-**Spread:** Arizona -2.0
+**Prediction:** Arizona has a 79.3% chance to win
+**Spread:** Arizona -8.0
 
 ### #6 BYU vs #11 VCU
 
-**Prediction:** VCU has a 54.7% chance to win
-**Spread:** VCU -1.1560349066919897
+**Prediction:** BYU has a 53.5% chance to win
+**Spread:** BYU -1.0
 
 ### #3 Wisconsin vs #14 Montana
 
-**Prediction:** Wisconsin has a 62.0% chance to win
-**Spread:** Wisconsin -3.0
+**Prediction:** Wisconsin has a 85.1% chance to win
+**Spread:** Wisconsin -10.5
 
 ### #7 St Mary's CA vs #10 Vanderbilt
 
-**Prediction:** St Mary's CA has a 59.8% chance to win
-**Spread:** St Mary's CA -2.5
+**Prediction:** St Mary's CA has a 78.6% chance to win
+**Spread:** St Mary's CA -8.0
 
 ### #2 Alabama vs #15 Robert Morris
 
-**Prediction:** Alabama has a 65.1% chance to win
-**Spread:** Alabama -4.0
+**Prediction:** Alabama has a 97.8% chance to win
+**Spread:** Alabama -30.5
 
 ## Potential Upsets
 
-**#5 Oregon vs #12 Liberty**: #12 Liberty has a 49.5% chance to upset #12 Liberty
+**#6 BYU vs #11 VCU**: #6 BYU has a 46.5% chance to upset #6 BYU
 
-**#6 BYU vs #11 VCU**: #11 VCU has a 45.3% chance to upset #11 VCU
-
-**#4 Arizona vs #13 Akron**: #4 Arizona has a 41.6% chance to upset #4 Arizona
-
-**#7 St Mary's CA vs #10 Vanderbilt**: #7 St Mary's CA has a 40.2% chance to upset #7 St Mary's CA
-
-**#3 Wisconsin vs #14 Montana**: #3 Wisconsin has a 38.0% chance to upset #3 Wisconsin
+**#5 Oregon vs #12 Liberty**: #5 Oregon has a 39.7% chance to upset #5 Oregon
 
 ## Sleeper Teams to Watch
 

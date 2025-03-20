@@ -1,12 +1,12 @@
 # X07 UCLA vs X10 Utah St
 
 ## Prediction
-**UCLA** is the Moderate favorite with a **62.4%** win probability.
-**Utah St** has a 37.6% chance of pulling the upset.
+**UCLA** is the Moderate favorite with a **55.6%** win probability.
+**Utah St** has a 44.4% chance of pulling the upset.
 
 ## Betting Information
-**Spread:** UCLA -3.0
-**Moneyline:** UCLA -166, Utah St +166
+**Spread:** UCLA -1.5
+**Moneyline:** UCLA -125, Utah St +125
 
 ## Statistical Comparison
 
@@ -31,7 +31,7 @@
 
 ## Analysis
 
-UCLA has a slight edge as a #7 seed versus #10 seed Utah St. Historically, #7 seeds have won 60.90% of games against #10 seeds in the tournament. UCLA has the advantage with a 62.36% win probability.
+UCLA has a slight edge as a #7 seed versus #10 seed Utah St. Historically, #7 seeds have won 60.90% of games against #10 seeds in the tournament. This is expected to be a close matchup, with UCLA having a slight edge (55.64% win probability).
 
 ## Betting Value Assessment
 

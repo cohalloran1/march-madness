@@ -1,12 +1,12 @@
 # Z02 St John's vs Z15 NE Omaha
 
 ## Prediction
-**St John's** is the Slight favorite with a **51.1%** win probability.
-**NE Omaha** has a 48.9% chance of pulling the upset.
+**St John's** is the Heavy favorite with a **89.9%** win probability.
+**NE Omaha** has a 10.1% chance of pulling the upset.
 
 ## Betting Information
-**Spread:** St John's -0.5
-**Moneyline:** St John's -104, NE Omaha +104
+**Spread:** St John's -15.0
+**Moneyline:** St John's -888, NE Omaha +888
 
 ## Statistical Comparison
 
@@ -35,7 +35,7 @@
 
 ## Analysis
 
-St John's (Z02) is a major favorite as a much higher seed than NE Omaha (Z15). St John's has a higher ELO rating (1696 vs 1503), indicating better season-long performance. Historically, #2 seeds have won 93.80% of games against #15 seeds in the tournament. This is expected to be a close matchup, with St John's having a slight edge (51.06% win probability).
+St John's (Z02) is a major favorite as a much higher seed than NE Omaha (Z15). St John's has a higher ELO rating (1696 vs 1503), indicating better season-long performance. Historically, #2 seeds have won 93.80% of games against #15 seeds in the tournament. St John's is the clear favorite with a 89.88% chance to win.
 
 ## Betting Value Assessment
 
@@ -43,5 +43,5 @@ St John's (Z02) is a major favorite as a much higher seed than NE Omaha (Z15). S
 
 ## The Pick
 
-**St John's** has a slight edge, but this is essentially a coin flip. Could go either way.
+**St John's** to win easily. This game should not be close.
 

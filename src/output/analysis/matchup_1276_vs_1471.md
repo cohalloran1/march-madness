@@ -1,12 +1,12 @@
 # Y05 Michigan vs Y12 UC San Diego
 
 ## Prediction
-**UC San Diego** is the Moderate favorite with a **57.8%** win probability.
-**Michigan** has a 42.2% chance of pulling the upset.
+**Michigan** is the Strong favorite with a **69.4%** win probability.
+**UC San Diego** has a 30.6% chance of pulling the upset.
 
 ## Betting Information
-**Spread:** UC San Diego -1.9267727422473562
-**Moneyline:** UC San Diego 137, Michigan +137
+**Spread:** Michigan -5.0
+**Moneyline:** Michigan -227, UC San Diego +227
 
 ## Statistical Comparison
 
@@ -37,13 +37,13 @@
 
 ## Analysis
 
-Despite being a lower #12 seed, UC San Diego is favored over #5 seed Michigan. This is expected to be a close matchup, with UC San Diego having a slight edge (57.82% win probability).
+As a #5 seed, Michigan has a significant seeding advantage over #12 seed UC San Diego. Historically, #5 seeds have won 64.90% of games against #12 seeds in the tournament. Michigan has the advantage with a 69.44% win probability.
 
 ## Betting Value Assessment
 
-**Strong Value**: Our model gives UC San Diego a 57.8% chance to win, compared to the implied 42.2% from betting odds. This represents significant betting value.
+**Fair Odds**: The betting line closely matches our projected win probability. No significant edge either way.
 
 ## The Pick
 
-**UC San Diego** has a slight edge, but this is essentially a coin flip. Could go either way.
+**Michigan** should control this game and win comfortably.
 

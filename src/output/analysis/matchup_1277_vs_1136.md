@@ -1,12 +1,12 @@
 # Y02 Michigan St vs Y15 Bryant
 
 ## Prediction
-**Michigan St** is the Moderate favorite with a **59.2%** win probability.
-**Bryant** has a 40.8% chance of pulling the upset.
+**Michigan St** is the Heavy favorite with a **86.2%** win probability.
+**Bryant** has a 13.8% chance of pulling the upset.
 
 ## Betting Information
-**Spread:** Michigan St -2.5
-**Moneyline:** Michigan St -145, Bryant +145
+**Spread:** Michigan St -11.5
+**Moneyline:** Michigan St -627, Bryant +627
 
 ## Statistical Comparison
 
@@ -33,7 +33,7 @@
 
 ## Analysis
 
-Michigan St (Y02) is a major favorite as a much higher seed than Bryant (Y15). Michigan St has a higher ELO rating (1668 vs 1568), indicating better season-long performance. Historically, #2 seeds have won 93.80% of games against #15 seeds in the tournament. This is expected to be a close matchup, with Michigan St having a slight edge (59.19% win probability).
+Michigan St (Y02) is a major favorite as a much higher seed than Bryant (Y15). Michigan St has a higher ELO rating (1668 vs 1568), indicating better season-long performance. Historically, #2 seeds have won 93.80% of games against #15 seeds in the tournament. Michigan St is the clear favorite with a 86.24% chance to win.
 
 ## Betting Value Assessment
 
@@ -41,5 +41,5 @@ Michigan St (Y02) is a major favorite as a much higher seed than Bryant (Y15). M
 
 ## The Pick
 
-**Michigan St** has the edge in this matchup, but expect a competitive game.
+**Michigan St** to win easily. This game should not be close.
 

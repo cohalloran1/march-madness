@@ -50,53 +50,47 @@
 
 ### #1 Houston vs #16 SIUE
 
-**Prediction:** Houston has a 66.0% chance to win
-**Spread:** Houston -4.0
+**Prediction:** Houston has a 96.7% chance to win
+**Spread:** Houston -26.5
 
 ### #8 Gonzaga vs #9 Georgia
 
-**Prediction:** Gonzaga has a 62.0% chance to win
-**Spread:** Gonzaga -3.0
+**Prediction:** Gonzaga has a 73.4% chance to win
+**Spread:** Gonzaga -6.0
 
 ### #5 Clemson vs #12 McNeese St
 
-**Prediction:** Clemson has a 73.1% chance to win
-**Spread:** Clemson -6.0
+**Prediction:** Clemson has a 78.8% chance to win
+**Spread:** Clemson -8.0
 
 ### #4 Purdue vs #13 High Point
 
-**Prediction:** High Point has a 56.3% chance to win
-**Spread:** High Point -1.5415091070937192
+**Prediction:** Purdue has a 76.8% chance to win
+**Spread:** Purdue -7.5
 
 ### #6 Illinois vs #11 Texas
 
-**Prediction:** Texas has a 55.5% chance to win
-**Spread:** Texas -1.3560590600103182
+**Prediction:** Illinois has a 74.3% chance to win
+**Spread:** Illinois -6.5
 
 ### #3 Kentucky vs #14 Troy
 
-**Prediction:** Kentucky has a 65.9% chance to win
-**Spread:** Kentucky -4.0
+**Prediction:** Kentucky has a 86.3% chance to win
+**Spread:** Kentucky -11.5
 
 ### #7 UCLA vs #10 Utah St
 
-**Prediction:** UCLA has a 62.4% chance to win
-**Spread:** UCLA -3.0
+**Prediction:** UCLA has a 55.6% chance to win
+**Spread:** UCLA -1.5
 
 ### #2 Tennessee vs #15 Wofford
 
-**Prediction:** Tennessee has a 63.6% chance to win
-**Spread:** Tennessee -3.5
+**Prediction:** Tennessee has a 97.3% chance to win
+**Spread:** Tennessee -28.5
 
 ## Potential Upsets
 
-**#6 Illinois vs #11 Texas**: #11 Texas has a 44.5% chance to upset #11 Texas
-
-**#4 Purdue vs #13 High Point**: #13 High Point has a 43.7% chance to upset #13 High Point
-
-**#7 UCLA vs #10 Utah St**: #7 UCLA has a 37.6% chance to upset #7 UCLA
-
-**#2 Tennessee vs #15 Wofford**: #2 Tennessee has a 36.4% chance to upset #2 Tennessee
+**#7 UCLA vs #10 Utah St**: #7 UCLA has a 44.4% chance to upset #7 UCLA
 
 ## Sleeper Teams to Watch
 

@@ -1,12 +1,12 @@
 # Z05 Memphis vs Z12 Colorado St
 
 ## Prediction
-**Memphis** is the Moderate favorite with a **55.4%** win probability.
-**Colorado St** has a 44.6% chance of pulling the upset.
+**Memphis** is the Heavy favorite with a **81.7%** win probability.
+**Colorado St** has a 18.3% chance of pulling the upset.
 
 ## Betting Information
-**Spread:** Memphis -1.5
-**Moneyline:** Memphis -124, Colorado St +124
+**Spread:** Memphis -9.0
+**Moneyline:** Memphis -446, Colorado St +446
 
 ## Statistical Comparison
 
@@ -37,7 +37,7 @@
 
 ## Analysis
 
-As a #5 seed, Memphis has a significant seeding advantage over #12 seed Colorado St. Historically, #5 seeds have won 64.90% of games against #12 seeds in the tournament. This is expected to be a close matchup, with Memphis having a slight edge (55.43% win probability).
+As a #5 seed, Memphis has a significant seeding advantage over #12 seed Colorado St. Historically, #5 seeds have won 64.90% of games against #12 seeds in the tournament. Memphis is the clear favorite with a 81.70% chance to win.
 
 ## Betting Value Assessment
 
@@ -45,5 +45,5 @@ As a #5 seed, Memphis has a significant seeding advantage over #12 seed Colorado
 
 ## The Pick
 
-**Memphis** has the edge in this matchup, but expect a competitive game.
+**Memphis** to win easily. This game should not be close.
 

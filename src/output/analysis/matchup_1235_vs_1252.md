@@ -1,12 +1,12 @@
 # Y03 Iowa St vs Y14 Lipscomb
 
 ## Prediction
-**Iowa St** is the Moderate favorite with a **59.2%** win probability.
-**Lipscomb** has a 40.8% chance of pulling the upset.
+**Iowa St** is the Heavy favorite with a **85.8%** win probability.
+**Lipscomb** has a 14.2% chance of pulling the upset.
 
 ## Betting Information
-**Spread:** Iowa St -2.5
-**Moneyline:** Iowa St -145, Lipscomb +145
+**Spread:** Iowa St -11.0
+**Moneyline:** Iowa St -606, Lipscomb +606
 
 ## Statistical Comparison
 
@@ -35,7 +35,7 @@
 
 ## Analysis
 
-Iowa St (Y03) is a major favorite as a much higher seed than Lipscomb (Y14). Iowa St has a higher ELO rating (1655 vs 1568), indicating better season-long performance. Historically, #3 seeds have won 85.20% of games against #14 seeds in the tournament. This is expected to be a close matchup, with Iowa St having a slight edge (59.17% win probability).
+Iowa St (Y03) is a major favorite as a much higher seed than Lipscomb (Y14). Iowa St has a higher ELO rating (1655 vs 1568), indicating better season-long performance. Historically, #3 seeds have won 85.20% of games against #14 seeds in the tournament. Iowa St is the clear favorite with a 85.84% chance to win.
 
 ## Betting Value Assessment
 
@@ -43,5 +43,5 @@ Iowa St (Y03) is a major favorite as a much higher seed than Lipscomb (Y14). Iow
 
 ## The Pick
 
-**Iowa St** has the edge in this matchup, but expect a competitive game.
+**Iowa St** to win easily. This game should not be close.
 

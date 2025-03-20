@@ -2083,7 +2083,7 @@ def load_advanced_stats(feature_df, season=2025):
 
 def load_predictions(gender_code="M", year=2025):
     """Load prediction data"""
-    file_path = os.path.join(OUTPUT_DIR, f"submission_{year}_{gender_code}.csv")
+    file_path = os.path.join(OUTPUT_DIR, f"submission_{year}.csv")
 
     if os.path.exists(file_path):
         try:
@@ -2096,6 +2096,7 @@ def load_predictions(gender_code="M", year=2025):
 
 
 def generate_enhanced_analysis(
+    simulator: BracketSimulator,
     ml_model: MarchMadnessMLModel,
     gender_code="M",
     year=2025,
@@ -2149,27 +2150,6 @@ def generate_enhanced_analysis(
         full_elo_history_df=elo_df,
         current_season=year,
         ml_model=ml_model,  # Pass the ML model
-    )
-
-    # Initialize the bracket simulator
-    simulator = BracketSimulator(predictor)
-    simulator.use_predictor_data()
-
-    # Build the bracket structure
-    men_bracket_tree, men_seed_slot_map = simulator.build_bracket_tree()
-
-    # Generate the bracket visualization
-    print("Generating men's tournament bracket visualization...")
-    simulator.visualize_bracket(
-        method="elo_enhanced",
-        output_path=f"output/2025_mens_bracket.png",
-        betting_odds=True,
-    )
-
-    simulator.visualize_bracket(
-        method="elo_enhanced",
-        output_path=f"output/2025_mens_bracket_prob.png",
-        betting_odds=False,
     )
 
     # Generate requested analysis

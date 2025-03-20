@@ -1,12 +1,12 @@
 # X04 Purdue vs X13 High Point
 
 ## Prediction
-**High Point** is the Moderate favorite with a **56.3%** win probability.
-**Purdue** has a 43.7% chance of pulling the upset.
+**Purdue** is the Strong favorite with a **76.8%** win probability.
+**High Point** has a 23.2% chance of pulling the upset.
 
 ## Betting Information
-**Spread:** High Point -1.5415091070937192
-**Moneyline:** High Point 129, Purdue +129
+**Spread:** Purdue -7.5
+**Moneyline:** Purdue -331, High Point +331
 
 ## Statistical Comparison
 
@@ -35,13 +35,13 @@
 
 ## Analysis
 
-Despite being a lower #13 seed, High Point is favored over #4 seed Purdue. High Point has a higher ELO rating (1601 vs 1725), indicating better season-long performance. This is expected to be a close matchup, with High Point having a slight edge (56.27% win probability).
+As a #4 seed, Purdue has a significant seeding advantage over #13 seed High Point. Purdue has a higher ELO rating (1725 vs 1601), indicating better season-long performance. Historically, #4 seeds have won 79.60% of games against #13 seeds in the tournament. Purdue is the clear favorite with a 76.81% chance to win.
 
 ## Betting Value Assessment
 
-**Strong Value**: Our model gives High Point a 56.3% chance to win, compared to the implied 43.7% from betting odds. This represents significant betting value.
+**Fair Odds**: The betting line closely matches our projected win probability. No significant edge either way.
 
 ## The Pick
 
-**High Point** has a slight edge, but this is essentially a coin flip. Could go either way.
+**Purdue** should control this game and win comfortably.
 

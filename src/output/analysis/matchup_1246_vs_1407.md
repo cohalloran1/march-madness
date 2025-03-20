@@ -1,12 +1,12 @@
 # X03 Kentucky vs X14 Troy
 
 ## Prediction
-**Kentucky** is the Strong favorite with a **65.9%** win probability.
-**Troy** has a 34.1% chance of pulling the upset.
+**Kentucky** is the Heavy favorite with a **86.3%** win probability.
+**Troy** has a 13.7% chance of pulling the upset.
 
 ## Betting Information
-**Spread:** Kentucky -4.0
-**Moneyline:** Kentucky -193, Troy +193
+**Spread:** Kentucky -11.5
+**Moneyline:** Kentucky -631, Troy +631
 
 ## Statistical Comparison
 
@@ -39,7 +39,7 @@
 
 ## Analysis
 
-Kentucky (X03) is a major favorite as a much higher seed than Troy (X14). Kentucky has a higher ELO rating (1666 vs 1577), indicating better season-long performance. Historically, #3 seeds have won 85.20% of games against #14 seeds in the tournament. Kentucky has the advantage with a 65.90% win probability.
+Kentucky (X03) is a major favorite as a much higher seed than Troy (X14). Kentucky has a higher ELO rating (1666 vs 1577), indicating better season-long performance. Historically, #3 seeds have won 85.20% of games against #14 seeds in the tournament. Kentucky is the clear favorite with a 86.33% chance to win.
 
 ## Betting Value Assessment
 
@@ -47,5 +47,5 @@ Kentucky (X03) is a major favorite as a much higher seed than Troy (X14). Kentuc
 
 ## The Pick
 
-**Kentucky** should control this game and win comfortably.
+**Kentucky** to win easily. This game should not be close.
 

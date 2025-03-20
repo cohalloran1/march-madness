@@ -35,6 +35,8 @@ import math
 import argparse
 import pandas as pd
 
+from data_classes.processing.Predictor import MarchMadnessPredictor
+
 # Constants
 SUBMISSION_DIR = "./output"
 DATA_DIR = "../data/{year}"
@@ -406,7 +408,7 @@ def load_predictions(gender_code, method, year=2025):
 def load_elo_data(gender_code, year=2025):
     """Load ELO data if available"""
     try:
-        file_path = os.path.join(SUBMISSION_DIR, f"team_elo_{gender_code}_{year}.csv")
+        file_path = os.path.join(SUBMISSION_DIR, f"{gender_code}_elo_ratings.csv")
         if os.path.exists(file_path):
             elo_df = pd.read_csv(file_path)
             # Convert to dictionary for easier lookup
@@ -624,7 +626,7 @@ def generate_bracket_analysis(
 
 # New function for use with a predictor in Jupyter notebooks
 def generate_analysis_from_predictor(
-    predictor, method="elo_enhanced", output_file=None, year=None
+    predictor: MarchMadnessPredictor, method="elo_enhanced", output_file=None, year=None
 ):
     """
     Generate tournament analysis using an existing MarchMadnessPredictor object

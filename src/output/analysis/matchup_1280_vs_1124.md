@@ -1,12 +1,12 @@
 # W08 Mississippi St vs W09 Baylor
 
 ## Prediction
-**Baylor** is the Strong favorite with a **69.6%** win probability.
-**Mississippi St** has a 30.4% chance of pulling the upset.
+**Mississippi St** is the Moderate favorite with a **55.1%** win probability.
+**Baylor** has a 44.9% chance of pulling the upset.
 
 ## Betting Information
-**Spread:** Baylor -5.071396177836796
-**Moneyline:** Baylor 229, Mississippi St +229
+**Spread:** Mississippi St -1.5
+**Moneyline:** Mississippi St -123, Baylor +123
 
 ## Statistical Comparison
 
@@ -27,13 +27,13 @@
 
 ## Analysis
 
-Despite being a lower #9 seed, Baylor is favored over #8 seed Mississippi St. Baylor has a higher ELO rating (1631 vs 1574), indicating better season-long performance. Baylor has the advantage with a 69.63% win probability.
+Mississippi St has a slight edge as a #8 seed versus #9 seed Baylor. Mississippi St has a higher ELO rating (1574 vs 1631), indicating better season-long performance. Historically, #8 seeds have won 51.40% of games against #9 seeds in the tournament. This is expected to be a close matchup, with Mississippi St having a slight edge (55.11% win probability).
 
 ## Betting Value Assessment
 
-**Strong Value**: Our model gives Baylor a 69.6% chance to win, compared to the implied 30.4% from betting odds. This represents significant betting value.
+**Fair Odds**: The betting line closely matches our projected win probability. No significant edge either way.
 
 ## The Pick
 
-**Baylor** has a slight edge, but this is essentially a coin flip. Could go either way.
+**Mississippi St** has the edge in this matchup, but expect a competitive game.
 

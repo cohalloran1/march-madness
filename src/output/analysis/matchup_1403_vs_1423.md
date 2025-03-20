@@ -1,12 +1,12 @@
 # Z03 Texas Tech vs Z14 UNC Wilmington
 
 ## Prediction
-**Texas Tech** is the Moderate favorite with a **61.5%** win probability.
-**UNC Wilmington** has a 38.5% chance of pulling the upset.
+**Texas Tech** is the Heavy favorite with a **81.1%** win probability.
+**UNC Wilmington** has a 18.9% chance of pulling the upset.
 
 ## Betting Information
-**Spread:** Texas Tech -3.0
-**Moneyline:** Texas Tech -160, UNC Wilmington +160
+**Spread:** Texas Tech -9.0
+**Moneyline:** Texas Tech -428, UNC Wilmington +428
 
 ## Statistical Comparison
 
@@ -33,7 +33,7 @@
 
 ## Analysis
 
-Texas Tech (Z03) is a major favorite as a much higher seed than UNC Wilmington (Z14). Historically, #3 seeds have won 85.20% of games against #14 seeds in the tournament. Texas Tech has the advantage with a 61.49% win probability.
+Texas Tech (Z03) is a major favorite as a much higher seed than UNC Wilmington (Z14). Historically, #3 seeds have won 85.20% of games against #14 seeds in the tournament. Texas Tech is the clear favorite with a 81.06% chance to win.
 
 ## Betting Value Assessment
 
@@ -41,5 +41,5 @@ Texas Tech (Z03) is a major favorite as a much higher seed than UNC Wilmington (
 
 ## The Pick
 
-**Texas Tech** has the edge in this matchup, but expect a competitive game.
+**Texas Tech** to win easily. This game should not be close.
 
