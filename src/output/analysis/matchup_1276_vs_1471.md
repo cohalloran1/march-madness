@@ -1,4 +1,4 @@
-# Y05 Michigan vs Y12 UC San Diego
+# South Region: #05 Michigan vs #12 UC San Diego
 
 ## Prediction
 **Michigan** is the Slight favorite with a **52.5%** win probability.

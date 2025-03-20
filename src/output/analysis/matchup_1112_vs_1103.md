@@ -1,4 +1,4 @@
-# W04 Arizona vs W13 Akron
+# West Region: #04 Arizona vs #13 Akron
 
 ## Prediction
 **Arizona** is the Moderate favorite with a **55.6%** win probability.

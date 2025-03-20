@@ -1,4 +1,4 @@
-# Z04 Maryland Team Profile
+# Midwest Region #04 Maryland Team Profile
 ## Team Overview
 **Seed:** Z04
 **ELO Rating:** 1611

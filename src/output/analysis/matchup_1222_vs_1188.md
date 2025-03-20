@@ -1,4 +1,4 @@
-# X01 Houston vs X16 SIUE
+# East Region: #01 Houston vs #16 SIUE
 
 ## Prediction
 **Houston** is the Heavy favorite with a **99.0%** win probability.

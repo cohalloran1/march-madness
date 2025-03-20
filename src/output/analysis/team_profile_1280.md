@@ -1,4 +1,4 @@
-# W08 Mississippi St Team Profile
+# West Region #08 Mississippi St Team Profile
 ## Team Overview
 **Seed:** W08
 **ELO Rating:** 1574

@@ -1,4 +1,4 @@
-# Y02 Michigan St Team Profile
+# South Region #02 Michigan St Team Profile
 ## Team Overview
 **Seed:** Y02
 **ELO Rating:** 1668

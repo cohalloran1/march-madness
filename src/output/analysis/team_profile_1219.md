@@ -1,4 +1,4 @@
-# X13 High Point Team Profile
+# East Region #13 High Point Team Profile
 ## Team Overview
 **Seed:** X13
 **ELO Rating:** 1601

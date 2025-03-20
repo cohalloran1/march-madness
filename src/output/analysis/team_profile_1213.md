@@ -1,4 +1,4 @@
-# Z13 Grand Canyon Team Profile
+# Midwest Region #13 Grand Canyon Team Profile
 ## Team Overview
 **Seed:** Z13
 **ELO Rating:** 1646

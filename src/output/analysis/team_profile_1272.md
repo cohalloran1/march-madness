@@ -1,4 +1,4 @@
-# Z05 Memphis Team Profile
+# Midwest Region #05 Memphis Team Profile
 ## Team Overview
 **Seed:** Z05
 **ELO Rating:** 1700

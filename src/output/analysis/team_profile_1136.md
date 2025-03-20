@@ -1,4 +1,4 @@
-# Y15 Bryant Team Profile
+# South Region #15 Bryant Team Profile
 ## Team Overview
 **Seed:** Y15
 **ELO Rating:** 1568

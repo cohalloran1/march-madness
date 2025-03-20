@@ -1,4 +1,4 @@
-# X11a Texas Team Profile
+# East Region #11a Texas Team Profile
 ## Team Overview
 **Seed:** X11a
 **ELO Rating:** 1603

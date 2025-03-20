@@ -1,4 +1,4 @@
-# W04 Arizona Team Profile
+# West Region #04 Arizona Team Profile
 ## Team Overview
 **Seed:** W04
 **ELO Rating:** 1690

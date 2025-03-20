@@ -1,4 +1,4 @@
-# Z10 Arkansas Team Profile
+# Midwest Region #10 Arkansas Team Profile
 ## Team Overview
 **Seed:** Z10
 **ELO Rating:** 1587

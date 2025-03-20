@@ -1,4 +1,4 @@
-# W02 Alabama vs W15 Robert Morris
+# West Region: #02 Alabama vs #15 Robert Morris
 
 ## Prediction
 **Alabama** is the Strong favorite with a **71.4%** win probability.

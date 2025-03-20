@@ -1,4 +1,4 @@
-# W16b Mt St Mary's Team Profile
+# West Region #16b Mt St Mary's Team Profile
 ## Team Overview
 **Seed:** W16b
 **ELO Rating:** 1530

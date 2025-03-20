@@ -1,4 +1,4 @@
-# X01 Houston Team Profile
+# East Region #01 Houston Team Profile
 ## Team Overview
 **Seed:** X01
 **ELO Rating:** 1809

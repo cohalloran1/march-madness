@@ -1,4 +1,4 @@
-# X10 Utah St Team Profile
+# East Region #10 Utah St Team Profile
 ## Team Overview
 **Seed:** X10
 **ELO Rating:** 1642

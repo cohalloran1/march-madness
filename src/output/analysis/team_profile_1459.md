@@ -1,4 +1,4 @@
-# X15 Wofford Team Profile
+# East Region #15 Wofford Team Profile
 ## Team Overview
 **Seed:** X15
 **ELO Rating:** 1528

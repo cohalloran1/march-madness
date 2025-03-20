@@ -1,4 +1,4 @@
-# Z07 Kansas Team Profile
+# Midwest Region #07 Kansas Team Profile
 ## Team Overview
 **Seed:** Z07
 **ELO Rating:** 1703

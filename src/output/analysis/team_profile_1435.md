@@ -1,4 +1,4 @@
-# W10 Vanderbilt Team Profile
+# West Region #10 Vanderbilt Team Profile
 ## Team Overview
 **Seed:** W10
 **ELO Rating:** 1523

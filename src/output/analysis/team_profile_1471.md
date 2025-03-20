@@ -1,4 +1,4 @@
-# Y12 UC San Diego Team Profile
+# South Region #12 UC San Diego Team Profile
 ## Team Overview
 **Seed:** Y12
 **ELO Rating:** 1617

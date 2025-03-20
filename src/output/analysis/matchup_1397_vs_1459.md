@@ -1,4 +1,4 @@
-# X02 Tennessee vs X15 Wofford
+# East Region: #02 Tennessee vs #15 Wofford
 
 ## Prediction
 **Tennessee** is the Strong favorite with a **76.3%** win probability.

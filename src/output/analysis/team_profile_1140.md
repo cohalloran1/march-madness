@@ -1,4 +1,4 @@
-# W06 BYU Team Profile
+# West Region #06 BYU Team Profile
 ## Team Overview
 **Seed:** W06
 **ELO Rating:** 1650

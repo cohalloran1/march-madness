@@ -1,4 +1,4 @@
-# X11b Xavier Team Profile
+# East Region #11b Xavier Team Profile
 ## Team Overview
 **Seed:** X11b
 **ELO Rating:** 1599

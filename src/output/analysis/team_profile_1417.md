@@ -1,4 +1,4 @@
-# X07 UCLA Team Profile
+# East Region #07 UCLA Team Profile
 ## Team Overview
 **Seed:** X07
 **ELO Rating:** 1614

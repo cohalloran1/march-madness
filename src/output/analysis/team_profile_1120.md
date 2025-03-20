@@ -1,4 +1,4 @@
-# Y01 Auburn Team Profile
+# South Region #01 Auburn Team Profile
 ## Team Overview
 **Seed:** Y01
 **ELO Rating:** 1736

@@ -1,4 +1,4 @@
-# Z Region Summary
+# Midwest Region Summary
 
 ## Top Teams
 

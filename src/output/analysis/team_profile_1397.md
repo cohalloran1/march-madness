@@ -1,4 +1,4 @@
-# X02 Tennessee Team Profile
+# East Region #02 Tennessee Team Profile
 ## Team Overview
 **Seed:** X02
 **ELO Rating:** 1746

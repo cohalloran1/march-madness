@@ -1,4 +1,4 @@
-# X08 Gonzaga vs X09 Georgia
+# East Region: #08 Gonzaga vs #09 Georgia
 
 ## Prediction
 **Gonzaga** is the Heavy favorite with a **99.0%** win probability.

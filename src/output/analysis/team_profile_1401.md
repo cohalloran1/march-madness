@@ -1,4 +1,4 @@
-# Y04 Texas A&M Team Profile
+# South Region #04 Texas A&M Team Profile
 ## Team Overview
 **Seed:** Y04
 **ELO Rating:** 1622

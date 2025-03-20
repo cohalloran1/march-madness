@@ -1,4 +1,4 @@
-# X04 Purdue Team Profile
+# East Region #04 Purdue Team Profile
 ## Team Overview
 **Seed:** X04
 **ELO Rating:** 1725

@@ -1,4 +1,4 @@
-# Z11 Drake Team Profile
+# Midwest Region #11 Drake Team Profile
 ## Team Overview
 **Seed:** Z11
 **ELO Rating:** 1688

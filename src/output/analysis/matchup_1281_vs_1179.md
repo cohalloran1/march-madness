@@ -1,4 +1,4 @@
-# Z06 Missouri vs Z11 Drake
+# Midwest Region: #06 Missouri vs #11 Drake
 
 ## Prediction
 **Drake** is the Strong favorite with a **76.2%** win probability.

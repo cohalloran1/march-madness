@@ -1,4 +1,4 @@
-# Y08 Louisville vs Y09 Creighton
+# South Region: #08 Louisville vs #09 Creighton
 
 ## Prediction
 **Creighton** is the Moderate favorite with a **55.4%** win probability.

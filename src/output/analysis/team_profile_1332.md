@@ -1,4 +1,4 @@
-# W05 Oregon Team Profile
+# West Region #05 Oregon Team Profile
 ## Team Overview
 **Seed:** W05
 **ELO Rating:** 1652

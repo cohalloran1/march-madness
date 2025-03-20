@@ -1,4 +1,4 @@
-# Z02 St John's vs Z15 NE Omaha
+# Midwest Region: #02 St John's vs #15 NE Omaha
 
 ## Prediction
 **St John's** is the Heavy favorite with a **99.0%** win probability.

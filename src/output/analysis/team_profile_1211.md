@@ -1,4 +1,4 @@
-# X08 Gonzaga Team Profile
+# East Region #08 Gonzaga Team Profile
 ## Team Overview
 **Seed:** X08
 **ELO Rating:** 1756

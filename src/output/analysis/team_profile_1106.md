@@ -1,4 +1,4 @@
-# Y16a Alabama St Team Profile
+# South Region #16a Alabama St Team Profile
 ## Team Overview
 **Seed:** Y16a
 **ELO Rating:** 1484

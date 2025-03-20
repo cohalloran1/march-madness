@@ -1,4 +1,4 @@
-# W07 St Mary's CA Team Profile
+# West Region #07 St Mary's CA Team Profile
 ## Team Overview
 **Seed:** W07
 **ELO Rating:** 1672

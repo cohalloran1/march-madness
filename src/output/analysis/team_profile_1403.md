@@ -1,4 +1,4 @@
-# Z03 Texas Tech Team Profile
+# Midwest Region #03 Texas Tech Team Profile
 ## Team Overview
 **Seed:** Z03
 **ELO Rating:** 1650

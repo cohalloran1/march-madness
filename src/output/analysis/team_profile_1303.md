@@ -1,4 +1,4 @@
-# Z15 NE Omaha Team Profile
+# Midwest Region #15 NE Omaha Team Profile
 ## Team Overview
 **Seed:** Z15
 **ELO Rating:** 1503

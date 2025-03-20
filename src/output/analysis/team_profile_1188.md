@@ -1,4 +1,4 @@
-# X16 SIUE Team Profile
+# East Region #16 SIUE Team Profile
 ## Team Overview
 **Seed:** X16
 **ELO Rating:** 1498

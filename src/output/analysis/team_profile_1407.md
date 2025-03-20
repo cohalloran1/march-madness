@@ -1,4 +1,4 @@
-# X14 Troy Team Profile
+# East Region #14 Troy Team Profile
 ## Team Overview
 **Seed:** X14
 **ELO Rating:** 1577

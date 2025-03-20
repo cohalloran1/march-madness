@@ -1,4 +1,4 @@
-# W03 Wisconsin vs W14 Montana
+# West Region: #03 Wisconsin vs #14 Montana
 
 ## Prediction
 **Wisconsin** is the Moderate favorite with a **57.1%** win probability.

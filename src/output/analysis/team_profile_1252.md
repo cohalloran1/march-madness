@@ -1,4 +1,4 @@
-# Y14 Lipscomb Team Profile
+# South Region #14 Lipscomb Team Profile
 ## Team Overview
 **Seed:** Y14
 **ELO Rating:** 1568

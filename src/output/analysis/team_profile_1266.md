@@ -1,4 +1,4 @@
-# Y07 Marquette Team Profile
+# South Region #07 Marquette Team Profile
 ## Team Overview
 **Seed:** Y07
 **ELO Rating:** 1686

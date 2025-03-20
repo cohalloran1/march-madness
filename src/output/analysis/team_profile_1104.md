@@ -1,4 +1,4 @@
-# W02 Alabama Team Profile
+# West Region #02 Alabama Team Profile
 ## Team Overview
 **Seed:** W02
 **ELO Rating:** 1731

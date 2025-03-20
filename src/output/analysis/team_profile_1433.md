@@ -1,4 +1,4 @@
-# W11 VCU Team Profile
+# West Region #11 VCU Team Profile
 ## Team Overview
 **Seed:** W11
 **ELO Rating:** 1662

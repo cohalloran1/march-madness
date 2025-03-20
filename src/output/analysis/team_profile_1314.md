@@ -1,4 +1,4 @@
-# Y11a North Carolina Team Profile
+# South Region #11a North Carolina Team Profile
 ## Team Overview
 **Seed:** Y11a
 **ELO Rating:** 1652

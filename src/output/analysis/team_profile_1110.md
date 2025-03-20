@@ -1,4 +1,4 @@
-# W16a American Univ Team Profile
+# West Region #16a American Univ Team Profile
 ## Team Overview
 **Seed:** W16a
 **ELO Rating:** 1511

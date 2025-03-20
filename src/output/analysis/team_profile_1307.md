@@ -1,4 +1,4 @@
-# Y10 New Mexico Team Profile
+# South Region #10 New Mexico Team Profile
 ## Team Overview
 **Seed:** Y10
 **ELO Rating:** 1615

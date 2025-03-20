@@ -1,4 +1,4 @@
-# Z03 Texas Tech vs Z14 UNC Wilmington
+# Midwest Region: #03 Texas Tech vs #14 UNC Wilmington
 
 ## Prediction
 **Texas Tech** is the Moderate favorite with a **57.3%** win probability.

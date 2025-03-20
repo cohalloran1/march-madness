@@ -1,4 +1,4 @@
-# Y06 Mississippi Team Profile
+# South Region #06 Mississippi Team Profile
 ## Team Overview
 **Seed:** Y06
 **ELO Rating:** 1590

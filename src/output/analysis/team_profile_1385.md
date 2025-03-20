@@ -1,4 +1,4 @@
-# Z02 St John's Team Profile
+# Midwest Region #02 St John's Team Profile
 ## Team Overview
 **Seed:** Z02
 **ELO Rating:** 1696

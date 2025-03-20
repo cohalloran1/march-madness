@@ -1,4 +1,4 @@
-# W14 Montana Team Profile
+# West Region #14 Montana Team Profile
 ## Team Overview
 **Seed:** W14
 **ELO Rating:** 1577

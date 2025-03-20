@@ -1,4 +1,4 @@
-# Y03 Iowa St Team Profile
+# South Region #03 Iowa St Team Profile
 ## Team Overview
 **Seed:** Y03
 **ELO Rating:** 1655

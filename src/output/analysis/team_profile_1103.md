@@ -1,4 +1,4 @@
-# W13 Akron Team Profile
+# West Region #13 Akron Team Profile
 ## Team Overview
 **Seed:** W13
 **ELO Rating:** 1637

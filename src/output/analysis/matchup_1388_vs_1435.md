@@ -1,4 +1,4 @@
-# W07 St Mary's CA vs W10 Vanderbilt
+# West Region: #07 St Mary's CA vs #10 Vanderbilt
 
 ## Prediction
 **St Mary's CA** is the Heavy favorite with a **99.9%** win probability.

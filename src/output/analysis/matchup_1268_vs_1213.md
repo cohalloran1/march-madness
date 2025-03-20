@@ -1,4 +1,4 @@
-# Z04 Maryland vs Z13 Grand Canyon
+# Midwest Region: #04 Maryland vs #13 Grand Canyon
 
 ## Prediction
 **Grand Canyon** is the Moderate favorite with a **56.5%** win probability.

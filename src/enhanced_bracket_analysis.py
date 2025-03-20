@@ -340,7 +340,10 @@ class EnhancedPredictor(SimplePredictor):
 
         # Header with seed and team name
         seed_display = profile["Seed"] if profile["Seed"] else "UNK"
-        markdown.append(f"# {seed_display} {profile['TeamName']} Team Profile\n")
+        region_code = seed_display[0]
+        region_name = {'W': 'West', 'X': 'East', 'Y': 'South', 'Z': 'Midwest'}.get(region_code, region_code)
+        seed_number = seed_display[1:]
+        markdown.append(f"# {region_name} Region #{seed_number} {profile['TeamName']} Team Profile\n")
 
         # Basic info section
         markdown.append("## Team Overview\n")
@@ -961,9 +964,12 @@ class EnhancedPredictor(SimplePredictor):
         # Header with seed and team names
         team1_seed = analysis["Team1Seed"] if analysis["Team1Seed"] else "UNK"
         team2_seed = analysis["Team2Seed"] if analysis["Team2Seed"] else "UNK"
-        markdown.append(
-            f"# {team1_seed} {analysis['Team1Name']} vs {team2_seed} {analysis['Team2Name']}\n\n"
-        )
+        # Extract region code and convert to region name
+        region_code = team1_seed[0]  # Both teams should be in the same region
+        region_name = {'W': 'West', 'X': 'East', 'Y': 'South', 'Z': 'Midwest'}.get(region_code, region_code)
+        team1_seed_num = team1_seed[1:]
+        team2_seed_num = team2_seed[1:]
+        markdown.append(f"# {region_name} Region: #{team1_seed_num} {analysis['Team1Name']} vs #{team2_seed_num} {analysis['Team2Name']}\n\n")
 
         # Prediction and odds section
         markdown.append("## Prediction\n")
@@ -1341,7 +1347,9 @@ class EnhancedPredictor(SimplePredictor):
         markdown = []
 
         # Header
-        markdown.append(f"# {summary['Region']} Region Summary\n\n")
+        region_code = summary['Region']
+        region_name = {'W': 'West', 'X': 'East', 'Y': 'South', 'Z': 'Midwest'}.get(region_code, region_code)
+        markdown.append(f"# {region_name} Region Summary\n\n")
 
         # Top teams section
         markdown.append("## Top Teams\n\n")

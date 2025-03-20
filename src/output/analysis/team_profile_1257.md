@@ -1,4 +1,4 @@
-# Y08 Louisville Team Profile
+# South Region #08 Louisville Team Profile
 ## Team Overview
 **Seed:** Y08
 **ELO Rating:** 1584

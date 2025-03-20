@@ -1,4 +1,4 @@
-# Z06 Missouri Team Profile
+# Midwest Region #06 Missouri Team Profile
 ## Team Overview
 **Seed:** Z06
 **ELO Rating:** 1538

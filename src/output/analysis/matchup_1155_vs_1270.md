@@ -1,4 +1,4 @@
-# X05 Clemson vs X12 McNeese St
+# East Region: #05 Clemson vs #12 McNeese St
 
 ## Prediction
 **Clemson** is the Moderate favorite with a **62.4%** win probability.

@@ -1,4 +1,4 @@
-# W03 Wisconsin Team Profile
+# West Region #03 Wisconsin Team Profile
 ## Team Overview
 **Seed:** W03
 **ELO Rating:** 1647

@@ -91,7 +91,9 @@ def extract_team_info(md_content):
         team_name = match.group(3).strip()
         # Map region code to region name using REGION_NAMES
         region_name = REGION_NAMES.get(region_code, "Unknown Region")
-        return seed, team_name  # Return numeric seed and team name separately
+        # Include the region name with the team name
+        team_name_with_region = f"{region_name}: {team_name}"
+        return seed, team_name_with_region  # Return numeric seed and team name with region
     return None, None
 
 
@@ -184,10 +186,11 @@ def load_analysis_files():
                                 md_content
                             )
 
-                        # Include region code in team displays
+                        # Include region name in team displays
                         region_code = team1_display[0]  # Extract region from seed
-                        team1_display = f"{region_code}{team1_display}"
-                        team2_display = f"{region_code}{team2_display}"
+                        region_name = REGION_NAMES.get(region_code, "Unknown")
+                        team1_display = f"{region_name}: {team1_display}"
+                        team2_display = f"{region_name}: {team2_display}"
 
                         upset_prob = extract_upset_probability(md_content)
 
@@ -274,7 +277,7 @@ def display_tournament_overview(data):
     st.markdown(
         """
         - **Tournament Overview**: View the executive summary with top contenders and predictions
-        - **Region Analysis**: View analyses for each region (W, X, Y, Z)
+        - **Region Analysis**: View analyses for each region (West, East, South, Midwest)
         - **Team Profiles**: View detailed profiles for individual teams
         - **Matchup Analysis**: View analyses for specific matchups including upset potential
         - **Search**: Find specific teams or matchups by keyword
@@ -294,9 +297,10 @@ def display_region_analysis(data):
     # Region selector
     regions = sorted(data["regions"].keys())
 
-    region_options = [f"{r} - {REGION_NAMES.get(r, 'Region')}" for r in regions]
-    selected_region_display = st.selectbox("Select a region:", region_options)
-    selected_region = selected_region_display.split(" - ")[0]
+    region_options = [f"{REGION_NAMES.get(r, 'Unknown Region')}" for r in regions]
+    region_to_code = {REGION_NAMES.get(r, 'Unknown Region'): r for r in regions}
+    selected_region_name = st.selectbox("Select a region:", region_options)
+    selected_region = region_to_code[selected_region_name]
 
     # Display region analysis
     if selected_region in data["regions"]:
@@ -415,7 +419,7 @@ def display_bracket_visualization(data):
     bracket_type = st.radio(
         "Select bracket type:",
         ["Win Probability", "Betting Odds"]
-        + (["Other Brackets"] if other_brackets else []),
+        + (["Historical Brackets"] if other_brackets else []),
     )
 
     if bracket_type == "Win Probability" and probability_bracket:
@@ -430,7 +434,7 @@ def display_bracket_visualization(data):
             caption="2025 Men's Tournament Bracket (Betting Odds)",
             use_container_width=True,
         )
-    elif bracket_type == "Other Brackets" and other_brackets:
+    elif bracket_type == "Historical Brackets" and other_brackets:
         for filepath, filename in other_brackets:
             st.image(filepath, caption=filename, use_container_width=True)
     else:

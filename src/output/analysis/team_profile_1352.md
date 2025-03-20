@@ -1,4 +1,4 @@
-# W15 Robert Morris Team Profile
+# West Region #15 Robert Morris Team Profile
 ## Team Overview
 **Seed:** W15
 **ELO Rating:** 1529

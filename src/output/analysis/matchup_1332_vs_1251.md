@@ -1,4 +1,4 @@
-# W05 Oregon vs W12 Liberty
+# West Region: #05 Oregon vs #12 Liberty
 
 ## Prediction
 **Oregon** is the Slight favorite with a **51.0%** win probability.

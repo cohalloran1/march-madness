@@ -1,4 +1,4 @@
-# W06 BYU vs W11 VCU
+# West Region: #06 BYU vs #11 VCU
 
 ## Prediction
 **VCU** is the Strong favorite with a **65.4%** win probability.

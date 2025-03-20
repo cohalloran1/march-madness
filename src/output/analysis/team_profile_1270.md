@@ -1,4 +1,4 @@
-# X12 McNeese St Team Profile
+# East Region #12 McNeese St Team Profile
 ## Team Overview
 **Seed:** X12
 **ELO Rating:** 1598

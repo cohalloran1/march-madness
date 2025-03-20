@@ -1,4 +1,4 @@
-# Z08 Connecticut vs Z09 Oklahoma
+# Midwest Region: #08 Connecticut vs #09 Oklahoma
 
 ## Prediction
 **Connecticut** is the Strong favorite with a **78.4%** win probability.

@@ -1,4 +1,4 @@
-# X Region Summary
+# East Region Summary
 
 ## Top Teams
 

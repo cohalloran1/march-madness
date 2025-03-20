@@ -1,4 +1,4 @@
-# Z08 Connecticut Team Profile
+# Midwest Region #08 Connecticut Team Profile
 ## Team Overview
 **Seed:** Z08
 **ELO Rating:** 1736

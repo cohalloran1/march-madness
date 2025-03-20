@@ -1,4 +1,4 @@
-# Z01 Florida vs Z16 Norfolk St
+# Midwest Region: #01 Florida vs #16 Norfolk St
 
 ## Prediction
 **Florida** is the Heavy favorite with a **99.9%** win probability.

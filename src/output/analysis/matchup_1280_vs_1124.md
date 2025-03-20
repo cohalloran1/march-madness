@@ -1,4 +1,4 @@
-# W08 Mississippi St vs W09 Baylor
+# West Region: #08 Mississippi St vs #09 Baylor
 
 ## Prediction
 **Baylor** is the Moderate favorite with a **56.4%** win probability.

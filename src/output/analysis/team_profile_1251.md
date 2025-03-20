@@ -1,4 +1,4 @@
-# W12 Liberty Team Profile
+# West Region #12 Liberty Team Profile
 ## Team Overview
 **Seed:** W12
 **ELO Rating:** 1627

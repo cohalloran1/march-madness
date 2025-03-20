@@ -1,4 +1,4 @@
-# X06 Illinois Team Profile
+# East Region #06 Illinois Team Profile
 ## Team Overview
 **Seed:** X06
 **ELO Rating:** 1647

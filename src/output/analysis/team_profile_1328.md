@@ -1,4 +1,4 @@
-# Z09 Oklahoma Team Profile
+# Midwest Region #09 Oklahoma Team Profile
 ## Team Overview
 **Seed:** Z09
 **ELO Rating:** 1584

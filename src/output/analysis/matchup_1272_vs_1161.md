@@ -1,4 +1,4 @@
-# Z05 Memphis vs Z12 Colorado St
+# Midwest Region: #05 Memphis vs #12 Colorado St
 
 ## Prediction
 **Colorado St** is the Slight favorite with a **53.4%** win probability.

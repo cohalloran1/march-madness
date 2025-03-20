@@ -1,4 +1,4 @@
-# Y09 Creighton Team Profile
+# South Region #09 Creighton Team Profile
 ## Team Overview
 **Seed:** Y09
 **ELO Rating:** 1665

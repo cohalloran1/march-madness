@@ -1,4 +1,4 @@
-# Y07 Marquette vs Y10 New Mexico
+# South Region: #07 Marquette vs #10 New Mexico
 
 ## Prediction
 **Marquette** is the Moderate favorite with a **60.5%** win probability.

@@ -1,4 +1,4 @@
-# Y03 Iowa St vs Y14 Lipscomb
+# South Region: #03 Iowa St vs #14 Lipscomb
 
 ## Prediction
 **Iowa St** is the Moderate favorite with a **64.0%** win probability.

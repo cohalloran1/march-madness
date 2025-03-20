@@ -1,4 +1,4 @@
-# X03 Kentucky Team Profile
+# East Region #03 Kentucky Team Profile
 ## Team Overview
 **Seed:** X03
 **ELO Rating:** 1666

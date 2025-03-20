@@ -1,4 +1,4 @@
-# Z14 UNC Wilmington Team Profile
+# Midwest Region #14 UNC Wilmington Team Profile
 ## Team Overview
 **Seed:** Z14
 **ELO Rating:** 1620

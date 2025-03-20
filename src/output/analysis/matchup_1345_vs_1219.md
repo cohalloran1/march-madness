@@ -1,4 +1,4 @@
-# X04 Purdue vs X13 High Point
+# East Region: #04 Purdue vs #13 High Point
 
 ## Prediction
 **Purdue** is the Moderate favorite with a **63.4%** win probability.

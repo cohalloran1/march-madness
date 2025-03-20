@@ -1,4 +1,4 @@
-# X07 UCLA vs X10 Utah St
+# East Region: #07 UCLA vs #10 Utah St
 
 ## Prediction
 **UCLA** is the Moderate favorite with a **55.6%** win probability.

@@ -1,4 +1,4 @@
-# W01 Duke Team Profile
+# West Region #01 Duke Team Profile
 ## Team Overview
 **Seed:** W01
 **ELO Rating:** 1782

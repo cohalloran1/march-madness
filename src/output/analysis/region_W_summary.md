@@ -1,4 +1,4 @@
-# W Region Summary
+# West Region Summary
 
 ## Top Teams
 

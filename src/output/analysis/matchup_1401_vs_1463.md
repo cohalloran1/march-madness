@@ -1,4 +1,4 @@
-# Y04 Texas A&M vs Y13 Yale
+# South Region: #04 Texas A&M vs #13 Yale
 
 ## Prediction
 **Yale** is the Slight favorite with a **52.6%** win probability.

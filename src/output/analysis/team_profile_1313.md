@@ -1,4 +1,4 @@
-# Z16 Norfolk St Team Profile
+# Midwest Region #16 Norfolk St Team Profile
 ## Team Overview
 **Seed:** Z16
 **ELO Rating:** 1570

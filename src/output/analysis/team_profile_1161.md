@@ -1,4 +1,4 @@
-# Z12 Colorado St Team Profile
+# Midwest Region #12 Colorado St Team Profile
 ## Team Overview
 **Seed:** Z12
 **ELO Rating:** 1651

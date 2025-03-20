@@ -1,4 +1,4 @@
-# Y16b St Francis PA Team Profile
+# South Region #16b St Francis PA Team Profile
 ## Team Overview
 **Seed:** Y16b
 **ELO Rating:** 1445

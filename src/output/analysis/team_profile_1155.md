@@ -1,4 +1,4 @@
-# X05 Clemson Team Profile
+# East Region #05 Clemson Team Profile
 ## Team Overview
 **Seed:** X05
 **ELO Rating:** 1666

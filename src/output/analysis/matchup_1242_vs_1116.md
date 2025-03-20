@@ -1,4 +1,4 @@
-# Z07 Kansas vs Z10 Arkansas
+# Midwest Region: #07 Kansas vs #10 Arkansas
 
 ## Prediction
 **Kansas** is the Strong favorite with a **71.5%** win probability.

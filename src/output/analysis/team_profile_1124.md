@@ -1,4 +1,4 @@
-# W09 Baylor Team Profile
+# West Region #09 Baylor Team Profile
 ## Team Overview
 **Seed:** W09
 **ELO Rating:** 1631

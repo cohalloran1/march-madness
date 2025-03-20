@@ -1,4 +1,4 @@
-# Y11b San Diego St Team Profile
+# South Region #11b San Diego St Team Profile
 ## Team Overview
 **Seed:** Y11b
 **ELO Rating:** 1631

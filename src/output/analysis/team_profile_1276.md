@@ -1,4 +1,4 @@
-# Y05 Michigan Team Profile
+# South Region #05 Michigan Team Profile
 ## Team Overview
 **Seed:** Y05
 **ELO Rating:** 1613

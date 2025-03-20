@@ -1,4 +1,4 @@
-# X09 Georgia Team Profile
+# East Region #09 Georgia Team Profile
 ## Team Overview
 **Seed:** X09
 **ELO Rating:** 1564

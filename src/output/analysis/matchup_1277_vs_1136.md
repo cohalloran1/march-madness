@@ -1,4 +1,4 @@
-# Y02 Michigan St vs Y15 Bryant
+# South Region: #02 Michigan St vs #15 Bryant
 
 ## Prediction
 **Michigan St** is the Moderate favorite with a **60.6%** win probability.

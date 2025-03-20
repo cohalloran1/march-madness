@@ -1,4 +1,4 @@
-# Y13 Yale Team Profile
+# South Region #13 Yale Team Profile
 ## Team Overview
 **Seed:** Y13
 **ELO Rating:** 1635

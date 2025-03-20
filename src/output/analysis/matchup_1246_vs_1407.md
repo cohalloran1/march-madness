@@ -1,4 +1,4 @@
-# X03 Kentucky vs X14 Troy
+# East Region: #03 Kentucky vs #14 Troy
 
 ## Prediction
 **Kentucky** is the Moderate favorite with a **64.9%** win probability.
