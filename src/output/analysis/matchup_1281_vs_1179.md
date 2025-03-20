@@ -1,12 +1,12 @@
 # Z06 Missouri vs Z11 Drake
 
 ## Prediction
-**Missouri** is the Slight favorite with a **52.2%** win probability.
-**Drake** has a 47.8% chance of pulling the upset.
+**Drake** is the Strong favorite with a **76.2%** win probability.
+**Missouri** has a 23.8% chance of pulling the upset.
 
 ## Betting Information
-**Spread:** Missouri -0.5
-**Moneyline:** Missouri -109, Drake +109
+**Spread:** Drake -7.096421022513746
+**Moneyline:** Drake 319, Missouri +319
 
 ## Statistical Comparison
 
@@ -35,13 +35,13 @@
 
 ## Analysis
 
-As a #6 seed, Missouri has a significant seeding advantage over #11 seed Drake. Missouri has a higher ELO rating (1538 vs 1688), indicating better season-long performance. Historically, #6 seeds have won 62.30% of games against #11 seeds in the tournament. This is expected to be a close matchup, with Missouri having a slight edge (52.19% win probability).
+Despite being a lower #11 seed, Drake is favored over #6 seed Missouri. Drake has a higher ELO rating (1688 vs 1538), indicating better season-long performance. Drake is the clear favorite with a 76.16% chance to win.
 
 ## Betting Value Assessment
 
-**Fair Odds**: The betting line closely matches our projected win probability. No significant edge either way.
+**Strong Value**: Our model gives Drake a 76.2% chance to win, compared to the implied 23.9% from betting odds. This represents significant betting value.
 
 ## The Pick
 
-**Missouri** has a slight edge, but this is essentially a coin flip. Could go either way.
+**Drake** has a slight edge, but this is essentially a coin flip. Could go either way.
 

@@ -1,12 +1,12 @@
 # W05 Oregon vs W12 Liberty
 
 ## Prediction
-**Oregon** is the Moderate favorite with a **60.3%** win probability.
-**Liberty** has a 39.7% chance of pulling the upset.
+**Oregon** is the Slight favorite with a **51.0%** win probability.
+**Liberty** has a 49.0% chance of pulling the upset.
 
 ## Betting Information
-**Spread:** Oregon -2.5
-**Moneyline:** Oregon -152, Liberty +152
+**Spread:** Oregon PK
+**Moneyline:** Oregon -104, Liberty +104
 
 ## Statistical Comparison
 
@@ -37,7 +37,7 @@
 
 ## Analysis
 
-As a #5 seed, Oregon has a significant seeding advantage over #12 seed Liberty. Historically, #5 seeds have won 64.90% of games against #12 seeds in the tournament. Oregon has the advantage with a 60.34% win probability.
+As a #5 seed, Oregon has a significant seeding advantage over #12 seed Liberty. Historically, #5 seeds have won 64.90% of games against #12 seeds in the tournament. This is expected to be a close matchup, with Oregon having a slight edge (51.01% win probability).
 
 ## Betting Value Assessment
 
@@ -45,5 +45,5 @@ As a #5 seed, Oregon has a significant seeding advantage over #12 seed Liberty. 
 
 ## The Pick
 
-**Oregon** has the edge in this matchup, but expect a competitive game.
+**Oregon** has a slight edge, but this is essentially a coin flip. Could go either way.
 

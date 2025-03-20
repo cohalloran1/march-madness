@@ -1,12 +1,12 @@
 # X02 Tennessee vs X15 Wofford
 
 ## Prediction
-**Tennessee** is the Heavy favorite with a **97.3%** win probability.
-**Wofford** has a 2.7% chance of pulling the upset.
+**Tennessee** is the Strong favorite with a **76.3%** win probability.
+**Wofford** has a 23.7% chance of pulling the upset.
 
 ## Betting Information
-**Spread:** Tennessee -28.5
-**Moneyline:** Tennessee -3625, Wofford +3625
+**Spread:** Tennessee -7.0
+**Moneyline:** Tennessee -322, Wofford +322
 
 ## Statistical Comparison
 
@@ -31,7 +31,7 @@
 
 ## Analysis
 
-Tennessee (X02) is a major favorite as a much higher seed than Wofford (X15). Tennessee has a substantially higher ELO rating (1746 vs 1528), indicating significantly better season-long performance. Historically, #2 seeds have won 93.80% of games against #15 seeds in the tournament. Tennessee is strongly favored with a 97.32% win probability.
+Tennessee (X02) is a major favorite as a much higher seed than Wofford (X15). Tennessee has a substantially higher ELO rating (1746 vs 1528), indicating significantly better season-long performance. Historically, #2 seeds have won 93.80% of games against #15 seeds in the tournament. Tennessee is the clear favorite with a 76.31% chance to win.
 
 ## Betting Value Assessment
 
@@ -39,5 +39,5 @@ Tennessee (X02) is a major favorite as a much higher seed than Wofford (X15). Te
 
 ## The Pick
 
-**Tennessee** to win easily. This game should not be close.
+**Tennessee** should control this game and win comfortably.
 

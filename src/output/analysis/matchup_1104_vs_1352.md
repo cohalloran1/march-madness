@@ -1,12 +1,12 @@
 # W02 Alabama vs W15 Robert Morris
 
 ## Prediction
-**Alabama** is the Heavy favorite with a **97.8%** win probability.
-**Robert Morris** has a 2.2% chance of pulling the upset.
+**Alabama** is the Strong favorite with a **71.4%** win probability.
+**Robert Morris** has a 28.6% chance of pulling the upset.
 
 ## Betting Information
-**Spread:** Alabama -30.5
-**Moneyline:** Alabama -4435, Robert Morris +4435
+**Spread:** Alabama -5.5
+**Moneyline:** Alabama -249, Robert Morris +249
 
 ## Statistical Comparison
 
@@ -35,7 +35,7 @@
 
 ## Analysis
 
-Alabama (W02) is a major favorite as a much higher seed than Robert Morris (W15). Alabama has a substantially higher ELO rating (1731 vs 1529), indicating significantly better season-long performance. Historically, #2 seeds have won 93.80% of games against #15 seeds in the tournament. Alabama is strongly favored with a 97.79% win probability.
+Alabama (W02) is a major favorite as a much higher seed than Robert Morris (W15). Alabama has a substantially higher ELO rating (1731 vs 1529), indicating significantly better season-long performance. Historically, #2 seeds have won 93.80% of games against #15 seeds in the tournament. Alabama is the clear favorite with a 71.39% chance to win.
 
 ## Betting Value Assessment
 
@@ -43,5 +43,5 @@ Alabama (W02) is a major favorite as a much higher seed than Robert Morris (W15)
 
 ## The Pick
 
-**Alabama** to win easily. This game should not be close.
+**Alabama** should control this game and win comfortably.
 

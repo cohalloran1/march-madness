@@ -1,12 +1,12 @@
 # Y04 Texas A&M vs Y13 Yale
 
 ## Prediction
-**Texas A&M** is the Heavy favorite with a **80.5%** win probability.
-**Yale** has a 19.5% chance of pulling the upset.
+**Yale** is the Slight favorite with a **52.6%** win probability.
+**Texas A&M** has a 47.4% chance of pulling the upset.
 
 ## Betting Information
-**Spread:** Texas A&M -8.5
-**Moneyline:** Texas A&M -413, Yale +413
+**Spread:** Yale -0.6326748437507378
+**Moneyline:** Yale 111, Texas A&M +111
 
 ## Statistical Comparison
 
@@ -37,13 +37,13 @@
 
 ## Analysis
 
-As a #4 seed, Texas A&M has a significant seeding advantage over #13 seed Yale. Historically, #4 seeds have won 79.60% of games against #13 seeds in the tournament. Texas A&M is the clear favorite with a 80.52% chance to win.
+Despite being a lower #13 seed, Yale is favored over #4 seed Texas A&M. This is expected to be a close matchup, with Yale having a slight edge (52.59% win probability).
 
 ## Betting Value Assessment
 
-**Fair Odds**: The betting line closely matches our projected win probability. No significant edge either way.
+**Strong Value**: Our model gives Yale a 52.6% chance to win, compared to the implied 47.4% from betting odds. This represents significant betting value.
 
 ## The Pick
 
-**Texas A&M** to win easily. This game should not be close.
+**Yale** has a slight edge, but this is essentially a coin flip. Could go either way.
 

@@ -1,12 +1,12 @@
 # Y07 Marquette vs Y10 New Mexico
 
 ## Prediction
-**Marquette** is the Moderate favorite with a **63.1%** win probability.
-**New Mexico** has a 36.9% chance of pulling the upset.
+**Marquette** is the Moderate favorite with a **60.5%** win probability.
+**New Mexico** has a 39.5% chance of pulling the upset.
 
 ## Betting Information
-**Spread:** Marquette -3.5
-**Moneyline:** Marquette -171, New Mexico +171
+**Spread:** Marquette -2.5
+**Moneyline:** Marquette -153, New Mexico +153
 
 ## Statistical Comparison
 
@@ -33,7 +33,7 @@
 
 ## Analysis
 
-Marquette has a slight edge as a #7 seed versus #10 seed New Mexico. Marquette has a higher ELO rating (1686 vs 1615), indicating better season-long performance. Historically, #7 seeds have won 60.90% of games against #10 seeds in the tournament. Marquette has the advantage with a 63.14% win probability.
+Marquette has a slight edge as a #7 seed versus #10 seed New Mexico. Marquette has a higher ELO rating (1686 vs 1615), indicating better season-long performance. Historically, #7 seeds have won 60.90% of games against #10 seeds in the tournament. Marquette has the advantage with a 60.47% win probability.
 
 ## Betting Value Assessment
 

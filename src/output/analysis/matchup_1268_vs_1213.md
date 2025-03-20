@@ -1,12 +1,12 @@
 # Z04 Maryland vs Z13 Grand Canyon
 
 ## Prediction
-**Maryland** is the Heavy favorite with a **80.9%** win probability.
-**Grand Canyon** has a 19.1% chance of pulling the upset.
+**Grand Canyon** is the Moderate favorite with a **56.5%** win probability.
+**Maryland** has a 43.5% chance of pulling the upset.
 
 ## Betting Information
-**Spread:** Maryland -9.0
-**Moneyline:** Maryland -424, Grand Canyon +424
+**Spread:** Grand Canyon -1.5887250176878953
+**Moneyline:** Grand Canyon 130, Maryland +130
 
 ## Statistical Comparison
 
@@ -37,13 +37,13 @@
 
 ## Analysis
 
-As a #4 seed, Maryland has a significant seeding advantage over #13 seed Grand Canyon. Historically, #4 seeds have won 79.60% of games against #13 seeds in the tournament. Maryland is the clear favorite with a 80.92% chance to win.
+Despite being a lower #13 seed, Grand Canyon is favored over #4 seed Maryland. This is expected to be a close matchup, with Grand Canyon having a slight edge (56.46% win probability).
 
 ## Betting Value Assessment
 
-**Fair Odds**: The betting line closely matches our projected win probability. No significant edge either way.
+**Strong Value**: Our model gives Grand Canyon a 56.5% chance to win, compared to the implied 43.5% from betting odds. This represents significant betting value.
 
 ## The Pick
 
-**Maryland** to win easily. This game should not be close.
+**Grand Canyon** has a slight edge, but this is essentially a coin flip. Could go either way.
 

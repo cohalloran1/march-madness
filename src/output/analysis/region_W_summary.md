@@ -49,49 +49,53 @@
 
 ### #1 Duke vs #16 American Univ
 
-**Prediction:** Duke has a 95.7% chance to win
-**Spread:** Duke -24.0
+**Prediction:** Duke has a 99.0% chance to win
+**Spread:** Duke -38.0
 
 ### #8 Mississippi St vs #9 Baylor
 
-**Prediction:** Mississippi St has a 55.1% chance to win
-**Spread:** Mississippi St -1.5
+**Prediction:** Baylor has a 56.4% chance to win
+**Spread:** Baylor -1.573236658511353
 
 ### #5 Oregon vs #12 Liberty
 
-**Prediction:** Oregon has a 60.3% chance to win
-**Spread:** Oregon -2.5
+**Prediction:** Oregon has a 51.0% chance to win
+**Spread:** Oregon PK
 
 ### #4 Arizona vs #13 Akron
 
-**Prediction:** Arizona has a 79.3% chance to win
-**Spread:** Arizona -8.0
+**Prediction:** Arizona has a 55.6% chance to win
+**Spread:** Arizona -1.5
 
 ### #6 BYU vs #11 VCU
 
-**Prediction:** BYU has a 53.5% chance to win
-**Spread:** BYU -1.0
+**Prediction:** VCU has a 65.4% chance to win
+**Spread:** VCU -3.8800742604875627
 
 ### #3 Wisconsin vs #14 Montana
 
-**Prediction:** Wisconsin has a 85.1% chance to win
-**Spread:** Wisconsin -10.5
+**Prediction:** Wisconsin has a 57.1% chance to win
+**Spread:** Wisconsin -1.5
 
 ### #7 St Mary's CA vs #10 Vanderbilt
 
-**Prediction:** St Mary's CA has a 78.6% chance to win
-**Spread:** St Mary's CA -8.0
+**Prediction:** St Mary's CA has a 99.9% chance to win
+**Spread:** St Mary's CA -38.0
 
 ### #2 Alabama vs #15 Robert Morris
 
-**Prediction:** Alabama has a 97.8% chance to win
-**Spread:** Alabama -30.5
+**Prediction:** Alabama has a 71.4% chance to win
+**Spread:** Alabama -5.5
 
 ## Potential Upsets
 
-**#6 BYU vs #11 VCU**: #6 BYU has a 46.5% chance to upset #6 BYU
+**#5 Oregon vs #12 Liberty**: #5 Oregon has a 49.0% chance to upset #5 Oregon
 
-**#5 Oregon vs #12 Liberty**: #5 Oregon has a 39.7% chance to upset #5 Oregon
+**#4 Arizona vs #13 Akron**: #4 Arizona has a 44.4% chance to upset #4 Arizona
+
+**#3 Wisconsin vs #14 Montana**: #3 Wisconsin has a 42.9% chance to upset #3 Wisconsin
+
+**#6 BYU vs #11 VCU**: #11 VCU has a 34.6% chance to upset #11 VCU
 
 ## Sleeper Teams to Watch
 

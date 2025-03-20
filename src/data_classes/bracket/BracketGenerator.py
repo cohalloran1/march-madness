@@ -162,13 +162,14 @@ class BracketSimulator:
 
         return root, seed_slot_map
 
-    def simulate_bracket(self, method="ensemble", betting_odds=False):
+    def simulate_bracket(self, method="ensemble", betting_odds=False, submission_file=None):
         """
         Simulate the tournament bracket using the predictor
 
         Parameters:
         method: Prediction method to use ('elo', 'ml', or 'ensemble')
         betting_odds: Whether to show betting odds instead of probabilities
+        submission_file: Path to a submission file to use for direct probability lookup
 
         Returns:
         slot_data: List of (coordinates, text) tuples for visualization
@@ -186,6 +187,38 @@ class BracketSimulator:
         # Map seeds to team IDs
         seed_team_map = dict(zip(seeds_df["Seed"], seeds_df["TeamID"]))
 
+        # Load submission file for direct lookups if provided
+        submissions = {}
+        submission_id_map = {}  # Exact ID mapping for improved accuracy
+        
+        if submission_file and os.path.exists(submission_file):
+            try:
+                submission_df = pd.read_csv(submission_file)
+                for _, row in submission_df.iterrows():
+                    match_id = row['ID']
+                    if match_id.startswith(str(self.current_season) + '_'):
+                        # Extract team IDs from the match ID (format: 2025_1166_1257)
+                        parts = match_id.split('_')
+                        if len(parts) == 3:
+                            team1_id = int(parts[1])
+                            team2_id = int(parts[2])
+                            
+                            # Store exact match ID for direct lookup
+                            submission_id_map[match_id] = float(row['Pred'])
+                            
+                            # Store both team combinations for pair lookup
+                            # For (team1,team2), store raw probability from CSV
+                            # For (team2,team1), store inverted probability (1-p)
+                            submissions[(team1_id, team2_id)] = float(row['Pred'])
+                            submissions[(team2_id, team1_id)] = 1.0 - float(row['Pred'])
+                
+                print(f"Loaded {len(submission_id_map)} matchup predictions from submission file")
+            except Exception as e:
+                print(f"Error loading submission file: {e}")
+            
+        # Make submission_id_map accessible to other methods
+        self.submission_id_map = submission_id_map
+                
         # Helper function to find team ID for a seed
         def get_team_id(seed_slot):
             seed = self.seed_slot_map[seed_slot]
@@ -195,8 +228,32 @@ class BracketSimulator:
         def predict_matchup(team1_id, team2_id):
             if team1_id is None or team2_id is None:
                 return 0.5  # Default if we don't have both teams
-
-            # Ensure team1_id < team2_id for consistency
+                
+            # First, try to look up the exact match ID in the submission file
+            # This ensures we use the exact value from the CSV
+            if hasattr(self, 'submission_id_map'):
+                # Format IDs in the same way as the submission file - always put smaller ID first
+                min_id, max_id = min(team1_id, team2_id), max(team1_id, team2_id)
+                match_id = f"{self.current_season}_{min_id}_{max_id}"
+                
+                if match_id in self.submission_id_map:
+                    # If we found an exact match, use it directly
+                    csv_prob = self.submission_id_map[match_id]
+                    
+                    # If team1_id is the smaller ID, then csv_prob is already correct
+                    # Otherwise, we need to invert it since csv_prob is for min_id winning
+                    if team1_id == min_id:
+                        return csv_prob
+                    else:
+                        return 1.0 - csv_prob
+            
+            # Check if we have this matchup in our submission lookup
+            if submissions and (team1_id, team2_id) in submissions:
+                # Return directly from submission file
+                return submissions[(team1_id, team2_id)]
+                
+            # Always make the smaller ID team1 for consistency with submission file format
+            # (prediction is always based on the smaller team id being first)
             if team1_id > team2_id:
                 team1_id, team2_id = team2_id, team1_id
                 is_reversed = True
@@ -212,7 +269,8 @@ class BracketSimulator:
                 method=method,
             )
 
-            # Adjust if we reversed the teams
+            # The prediction represents the probability of team1 (smaller ID) winning
+            # If the original team1 was the larger ID (we reversed), then we need to flip the probability
             return 1 - pred if is_reversed else pred
 
         def win_probability_to_spread(
@@ -287,23 +345,39 @@ class BracketSimulator:
 
                 # If both teams are known, predict the winner
                 if left_node.team_id is not None and right_node.team_id is not None:
-                    # Predict the game
-                    win_prob = predict_matchup(left_node.team_id, right_node.team_id)
-
-                    # Store the probability
-                    left_node.win_prob = win_prob
-                    right_node.win_prob = 1 - win_prob
-
-                    # Determine the winner
-                    if win_prob > 0.5:
+                    # Predict the game using our enhanced predict_matchup function
+                    # This returns the probability of left_node winning against right_node
+                    # The predict_matchup function handles all ID ordering and CSV lookups internally
+                    left_win_prob = predict_matchup(left_node.team_id, right_node.team_id)
+                    
+                    # Store the probabilities directly
+                    left_node.win_prob = left_win_prob
+                    right_node.win_prob = 1 - left_win_prob
+                    
+                    # For debugging - print information about the matchup
+                    team1_name = teams_df[teams_df["TeamID"] == left_node.team_id]["TeamName"].iloc[0] 
+                    team2_name = teams_df[teams_df["TeamID"] == right_node.team_id]["TeamName"].iloc[0]
+                    if left_node.team_id == 1106 or right_node.team_id == 1106:
+                        print(f"DEBUG: Matchup {left_node.team_id} ({team1_name}) vs {right_node.team_id} ({team2_name})")
+                        print(f"       {left_node.team_id} win probability: {left_win_prob:.4f}")
+                        # Check if this matchup is in the submission file
+                        min_id, max_id = min(left_node.team_id, right_node.team_id), max(left_node.team_id, right_node.team_id)
+                        match_id = f"{self.current_season}_{min_id}_{max_id}"
+                        if hasattr(self, 'submission_id_map') and match_id in self.submission_id_map:
+                            csv_prob = self.submission_id_map[match_id]
+                            first_team = "left node" if min_id == left_node.team_id else "right node"
+                            print(f"       CSV entry: {match_id} = {csv_prob:.4f} (probability of {first_team} winning)")
+                    
+                    # Determine the winner based on win probability
+                    if left_win_prob > 0.5:
                         winner = left_node
                         if betting_odds:
-                            winner.odds = win_probability_to_spread(winner.win_prob)
+                            winner.odds = win_probability_to_spread(left_win_prob)
                             right_node.odds = None
                     else:
                         winner = right_node
                         if betting_odds:
-                            winner.odds = win_probability_to_spread(winner.win_prob)
+                            winner.odds = win_probability_to_spread(1 - left_win_prob)
                             left_node.odds = None
 
                     # Advance the winner to the parent node
@@ -676,7 +750,8 @@ class BracketSimulator:
         return self._create_and_save_figure(img, title, output_path, show_plot)
 
     def visualize_bracket(
-        self, method="ensemble", output_path=None, show_plot=True, betting_odds=False
+        self, method="ensemble", output_path=None, show_plot=True, betting_odds=False, 
+        submission_file=None
     ):
         """
         Visualize the tournament bracket
@@ -686,15 +761,22 @@ class BracketSimulator:
         output_path: Path to save the image (optional)
         show_plot: Whether to display the plot
         betting_odds: Whether to show betting odds instead of probabilities
+        submission_file: Path to a submission file to use for direct probability lookup
 
         Returns:
         fig: Matplotlib figure object
         """
         # Simulate the bracket
-        slot_data = self.simulate_bracket(method=method, betting_odds=betting_odds)
+        slot_data = self.simulate_bracket(
+            method=method, 
+            betting_odds=betting_odds, 
+            submission_file=submission_file
+        )
 
         # Set title
         title = f"{self.current_season} March Madness Bracket Prediction ({method})"
+        if submission_file:
+            title += " (Using Submission File)"
         if betting_odds:
             title += " - Betting Odds"
 

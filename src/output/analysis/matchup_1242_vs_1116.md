@@ -1,12 +1,12 @@
 # Z07 Kansas vs Z10 Arkansas
 
 ## Prediction
-**Kansas** is the Strong favorite with a **73.2%** win probability.
-**Arkansas** has a 26.8% chance of pulling the upset.
+**Kansas** is the Strong favorite with a **71.5%** win probability.
+**Arkansas** has a 28.5% chance of pulling the upset.
 
 ## Betting Information
-**Spread:** Kansas -6.0
-**Moneyline:** Kansas -273, Arkansas +273
+**Spread:** Kansas -5.5
+**Moneyline:** Kansas -251, Arkansas +251
 
 ## Statistical Comparison
 
@@ -31,7 +31,7 @@
 
 ## Analysis
 
-Kansas has a slight edge as a #7 seed versus #10 seed Arkansas. Kansas has a higher ELO rating (1703 vs 1587), indicating better season-long performance. Historically, #7 seeds have won 60.90% of games against #10 seeds in the tournament. Kansas is the clear favorite with a 73.18% chance to win.
+Kansas has a slight edge as a #7 seed versus #10 seed Arkansas. Kansas has a higher ELO rating (1703 vs 1587), indicating better season-long performance. Historically, #7 seeds have won 60.90% of games against #10 seeds in the tournament. Kansas is the clear favorite with a 71.54% chance to win.
 
 ## Betting Value Assessment
 

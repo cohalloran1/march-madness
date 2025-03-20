@@ -1,12 +1,12 @@
 # Z08 Connecticut vs Z09 Oklahoma
 
 ## Prediction
-**Connecticut** is the Strong favorite with a **74.4%** win probability.
-**Oklahoma** has a 25.6% chance of pulling the upset.
+**Connecticut** is the Strong favorite with a **78.4%** win probability.
+**Oklahoma** has a 21.6% chance of pulling the upset.
 
 ## Betting Information
-**Spread:** Connecticut -6.5
-**Moneyline:** Connecticut -291, Oklahoma +291
+**Spread:** Connecticut -8.0
+**Moneyline:** Connecticut -363, Oklahoma +363
 
 ## Statistical Comparison
 
@@ -35,7 +35,7 @@
 
 ## Analysis
 
-Connecticut has a slight edge as a #8 seed versus #9 seed Oklahoma. Connecticut has a higher ELO rating (1736 vs 1584), indicating better season-long performance. Historically, #8 seeds have won 51.40% of games against #9 seeds in the tournament. Connecticut is the clear favorite with a 74.43% chance to win.
+Connecticut has a slight edge as a #8 seed versus #9 seed Oklahoma. Connecticut has a higher ELO rating (1736 vs 1584), indicating better season-long performance. Historically, #8 seeds have won 51.40% of games against #9 seeds in the tournament. Connecticut is the clear favorite with a 78.40% chance to win.
 
 ## Betting Value Assessment
 

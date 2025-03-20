@@ -1,12 +1,12 @@
 # W06 BYU vs W11 VCU
 
 ## Prediction
-**BYU** is the Slight favorite with a **53.5%** win probability.
-**VCU** has a 46.5% chance of pulling the upset.
+**VCU** is the Strong favorite with a **65.4%** win probability.
+**BYU** has a 34.6% chance of pulling the upset.
 
 ## Betting Information
-**Spread:** BYU -1.0
-**Moneyline:** BYU -115, VCU +115
+**Spread:** VCU -3.8800742604875627
+**Moneyline:** VCU 189, BYU +189
 
 ## Statistical Comparison
 
@@ -33,13 +33,13 @@
 
 ## Analysis
 
-As a #6 seed, BYU has a significant seeding advantage over #11 seed VCU. Historically, #6 seeds have won 62.30% of games against #11 seeds in the tournament. This is expected to be a close matchup, with BYU having a slight edge (53.51% win probability).
+Despite being a lower #11 seed, VCU is favored over #6 seed BYU. VCU has the advantage with a 65.36% win probability.
 
 ## Betting Value Assessment
 
-**Fair Odds**: The betting line closely matches our projected win probability. No significant edge either way.
+**Strong Value**: Our model gives VCU a 65.4% chance to win, compared to the implied 34.6% from betting odds. This represents significant betting value.
 
 ## The Pick
 
-**BYU** has a slight edge, but this is essentially a coin flip. Could go either way.
+**VCU** has a slight edge, but this is essentially a coin flip. Could go either way.
 
